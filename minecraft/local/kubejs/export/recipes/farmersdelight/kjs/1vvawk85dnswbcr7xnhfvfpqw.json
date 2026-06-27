@@ -1,0 +1,17 @@
+{
+	"type": "farmersdelight:cooking",
+	"ingredients": [
+		{
+			"item": "exnihilosequentia:tin_pieces"
+		},
+		{
+			"item": "kubejs:acidic_extract"
+		}
+	],
+	"result": {
+		"item": "thermal:tin_nugget",
+		"count": 3
+	},
+	"experience": 0.5,
+	"cookingtime": 400
+}

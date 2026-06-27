@@ -21,6 +21,7 @@
 #D5B439 blue_skies:crystallized_slab
 #354FDA blue_skies:crystallized_trapdoor
 #7175C1 blue_skies:cut_crystal_sandstone
+#B2A2E1 minecraft:dandelion
 #80497A minecraft:dirt
 #A2A4D8 blue_skies:dusk_leaves
 #81F566 blue_skies:dusk_vine
@@ -71,6 +72,7 @@
 #358075 blue_skies:mossy_lunar_cobblestone
 #4A5E4E minecraft:obsidian
 #CBAEE7 blue_skies:polished_umber_stairs
+#AFAC0D minecraft:poppy
 #4087F9 blue_skies:potted_blaze_bud
 #B90616 botania:root
 #B74BCC tconstruct:seared_bricks

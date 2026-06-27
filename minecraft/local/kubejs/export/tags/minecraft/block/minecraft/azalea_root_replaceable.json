@@ -2,6 +2,8 @@
 	"#minecraft:base_stone_overworld",
 	"#minecraft:dirt",
 	"#minecraft:terracotta",
+	"immersiveengineering:grit_sand",
+	"immersiveengineering:slag_gravel",
 	"minecraft:clay",
 	"minecraft:gravel",
 	"minecraft:powder_snow",

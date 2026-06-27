@@ -1,5 +1,6 @@
 [
 	"#forge:seeds",
+	"farmersdelight:onion",
 	"minecraft:carrot",
 	"minecraft:nether_wart",
 	"minecraft:potato"

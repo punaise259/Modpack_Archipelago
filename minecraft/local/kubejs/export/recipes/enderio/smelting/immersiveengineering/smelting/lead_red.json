@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"tag": "forge:nuggets/lead"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:red_dye"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true
+}

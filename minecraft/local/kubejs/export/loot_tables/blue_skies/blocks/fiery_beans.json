@@ -1,0 +1,73 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "blue_skies:blocks/fiery_beans",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:apply_bonus",
+							"conditions": [
+								{
+									"condition": "minecraft:block_state_property",
+									"block": "blue_skies:fiery_beans",
+									"properties": {
+										"age": "3"
+									}
+								}
+							],
+							"enchantment": "minecraft:fortune",
+							"formula": "minecraft:binomial_with_bonus_count",
+							"parameters": {
+								"extra": 3,
+								"probability": 0.5714286
+							}
+						}
+					],
+					"name": "blue_skies:fiery_bean_seeds"
+				}
+			]
+		},
+		{
+			"name": "pool1",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:apply_bonus",
+							"enchantment": "minecraft:fortune",
+							"formula": "minecraft:binomial_with_bonus_count",
+							"parameters": {
+								"extra": 1,
+								"probability": 0.5714286
+							}
+						}
+					],
+					"name": "blue_skies:fiery_beans"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "blue_skies:fiery_beans",
+					"properties": {
+						"age": "3"
+					}
+				}
+			]
+		}
+	],
+	"functions": [
+		{
+			"function": "minecraft:explosion_decay"
+		}
+	]
+}

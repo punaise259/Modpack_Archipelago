@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "blue_skies:everdawn_pyrope_ore"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "blue_skies:pyrope_gem"
+	},
+	"energy": 1500,
+	"experience": 0.7,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "blue_skies",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

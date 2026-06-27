@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "thermal:lead_ore"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "thermal:lead_ingot"
+	},
+	"energy": 1500,
+	"experience": 0.8,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "thermal",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

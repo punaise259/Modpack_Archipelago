@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"tag": "ad_astra:raw_ostrum"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "ad_astra:ostrum_ingot"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "ad_astra",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

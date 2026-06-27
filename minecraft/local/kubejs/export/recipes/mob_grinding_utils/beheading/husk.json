@@ -1,0 +1,7 @@
+{
+	"type": "mob_grinding_utils:beheading",
+	"entity": "minecraft:husk",
+	"result": {
+		"item": "tconstruct:husk_head"
+	}
+}

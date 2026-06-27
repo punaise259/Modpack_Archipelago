@@ -1,8 +1,10 @@
 {
-	"minecraft:weighted_list": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2560/0x0000000800adb5e8",
-	"minecraft:constant": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2560/0x0000000800adb5e8",
-	"minecraft:uniform": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2560/0x0000000800adb5e8",
-	"minecraft:biased_to_bottom": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2560/0x0000000800adb5e8",
-	"minecraft:clamped": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2560/0x0000000800adb5e8",
-	"minecraft:clamped_normal": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2560/0x0000000800adb5e8"
+	"mekanism:configurable_constant": "mekanism.common.registration.impl.IntProviderTypeDeferredRegister$$Lambda$20062/0x00000008028569e0",
+	"minecraft:clamped": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2579/0x0000000800b34480",
+	"mekanism:configurable_uniform": "mekanism.common.registration.impl.IntProviderTypeDeferredRegister$$Lambda$20062/0x00000008028569e0",
+	"minecraft:constant": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2579/0x0000000800b34480",
+	"minecraft:biased_to_bottom": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2579/0x0000000800b34480",
+	"minecraft:clamped_normal": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2579/0x0000000800b34480",
+	"minecraft:weighted_list": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2579/0x0000000800b34480",
+	"minecraft:uniform": "net.minecraft.util.valueproviders.IntProviderType$$Lambda$2579/0x0000000800b34480"
 }

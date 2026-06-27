@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "tconstruct:steel_shard"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "tconstruct:steel_nugget"
+	},
+	"energy": 1500,
+	"experience": 0.2,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "tconstruct",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

@@ -1,7 +1,15 @@
 [
+	"#libx:impl_fences",
 	"#minecraft:wooden_fences",
+	"botania:dreamwood_fence",
+	"botania:livingwood_fence",
+	"farmersdelight:rope_fence",
+	"immersiveengineering:alu_fence",
+	"immersiveengineering:steel_fence",
+	"immersiveengineering:treated_fence",
 	"minecraft:nether_brick_fence",
 	"tconstruct:blazewood_fence",
 	"tconstruct:nahuatl_fence",
-	"tconstruct:scorched_bricks_fence"
+	"tconstruct:scorched_bricks_fence",
+	"thermal:rubberwood_fence"
 ]

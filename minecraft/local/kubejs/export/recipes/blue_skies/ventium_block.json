@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"#": {
+			"tag": "blue_skies:ingots/ventium"
+		}
+	},
+	"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"result": {
+		"item": "blue_skies:ventium_block"
+	},
+	"show_notification": true
+}

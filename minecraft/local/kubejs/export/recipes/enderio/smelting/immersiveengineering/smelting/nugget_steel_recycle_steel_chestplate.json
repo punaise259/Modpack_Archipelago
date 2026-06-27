@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "immersiveengineering:armor_steel_chestplate"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "immersiveengineering:nugget_steel"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "immersiveengineering",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

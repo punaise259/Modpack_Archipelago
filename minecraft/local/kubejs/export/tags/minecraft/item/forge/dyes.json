@@ -14,5 +14,8 @@
 	"#forge:dyes/purple",
 	"#forge:dyes/red",
 	"#forge:dyes/white",
-	"#forge:dyes/yellow"
+	"#forge:dyes/yellow",
+	"enderio:organic_black_dye",
+	"enderio:organic_brown_dye",
+	"enderio:organic_green_dye"
 ]

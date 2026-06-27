@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"#": {
+			"item": "blue_skies:pyrope_gem"
+		}
+	},
+	"pattern": [
+		"###",
+		"# #"
+	],
+	"result": {
+		"item": "blue_skies:pyrope_helmet"
+	},
+	"show_notification": true
+}

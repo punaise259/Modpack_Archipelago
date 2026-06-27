@@ -1,6 +1,12 @@
 [
+	"#blue_skies:bosses",
+	"#blue_skies:frost_spirits",
+	"blue_skies:polargeist",
+	"blue_skies:snow_owl",
+	"mekanism:robit",
 	"minecraft:polar_bear",
 	"minecraft:snow_golem",
 	"minecraft:stray",
-	"minecraft:wither"
+	"minecraft:wither",
+	"thermal:blizz"
 ]

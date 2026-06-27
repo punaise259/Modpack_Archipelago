@@ -1,6 +1,9 @@
 {
-	"minecraft:sequence": "com.mojang.serialization.MapCodec$MapCodecCodec",
-	"minecraft:condition": "com.mojang.serialization.MapCodec$MapCodecCodec",
 	"minecraft:bandlands": "com.mojang.serialization.MapCodec$MapCodecCodec",
-	"minecraft:block": "com.mojang.serialization.MapCodec$MapCodecCodec"
+	"blue_skies:reservoir_muddiness": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"minecraft:condition": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"minecraft:block": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"blue_skies:crystal_roughness": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"minecraft:sequence": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"libx:empty": "com.mojang.serialization.MapCodec$MapCodecCodec"
 }

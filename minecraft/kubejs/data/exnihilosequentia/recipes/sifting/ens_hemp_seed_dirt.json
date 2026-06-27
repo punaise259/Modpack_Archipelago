@@ -1,0 +1,12 @@
+{
+  "type": "exnihilosequentia:sifting",
+  "input": {
+    "item": "minecraft:dirt"
+  },
+  "result": {
+    "item": "immersiveengineering:seed"
+  },
+  "rolls": [
+    { "chance": 0.1, "mesh": "string" }
+  ]
+}

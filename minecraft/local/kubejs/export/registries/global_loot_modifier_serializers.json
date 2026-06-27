@@ -1,5 +1,22 @@
 {
+	"cyclopscore:inject_item": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"sophisticatedbackpacks:inject_loot": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"farmersdelight:add_item": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"farmersdelight:replace_item": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"farmersdelight:add_loot_table": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"farmersdelight:pastry_slicing": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"cyclic:auto_smelt": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"libx:addition": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"libx:removal": "com.mojang.serialization.MapCodec$MapCodecCodec",
 	"tconstruct:modifier_hook": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"immersiveengineering:hemp_seed_drops": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"enderio:auto_smelt": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"enderio:broken_spawner": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"enderio:chest_loot": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"enderio:direct_upgrade": "com.mojang.serialization.MapCodec$MapCodecCodec",
 	"mantle:add_entry": "com.mojang.serialization.MapCodec$MapCodecCodec",
-	"mantle:replace_item": "com.mojang.serialization.MapCodec$MapCodecCodec"
+	"mantle:replace_item": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"experienceobelisk:add_single_item": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"exnihilosequentia:use_hammer": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"exnihilosequentia:use_crook": "com.mojang.serialization.MapCodec$MapCodecCodec"
 }

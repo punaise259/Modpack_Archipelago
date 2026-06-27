@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"#": {
+			"tag": "blue_skies:ingots/ventium"
+		}
+	},
+	"pattern": [
+		"# #",
+		" # "
+	],
+	"result": {
+		"item": "blue_skies:ventium_bucket"
+	},
+	"show_notification": true
+}

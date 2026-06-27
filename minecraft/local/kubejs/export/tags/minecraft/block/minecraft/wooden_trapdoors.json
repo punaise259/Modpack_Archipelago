@@ -1,4 +1,16 @@
 [
+	"#libx:impl_wooden_trapdoors",
+	"ad_astra:aeronos_trapdoor",
+	"ad_astra:glacian_trapdoor",
+	"ad_astra:strophar_trapdoor",
+	"blue_skies:bluebright_trapdoor",
+	"blue_skies:comet_trapdoor",
+	"blue_skies:dusk_trapdoor",
+	"blue_skies:frostbright_trapdoor",
+	"blue_skies:lunar_trapdoor",
+	"blue_skies:maple_trapdoor",
+	"blue_skies:starlit_trapdoor",
+	"enderio:painted_trapdoor",
 	"minecraft:acacia_trapdoor",
 	"minecraft:bamboo_trapdoor",
 	"minecraft:birch_trapdoor",
@@ -13,5 +25,6 @@
 	"tconstruct:bloodshroom_trapdoor",
 	"tconstruct:enderbark_trapdoor",
 	"tconstruct:greenheart_trapdoor",
-	"tconstruct:skyroot_trapdoor"
+	"tconstruct:skyroot_trapdoor",
+	"thermal:rubberwood_trapdoor"
 ]

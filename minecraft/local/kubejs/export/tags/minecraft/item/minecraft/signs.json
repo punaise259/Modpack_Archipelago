@@ -1,4 +1,13 @@
 [
+	"#farmersdelight:canvas_signs",
+	"#libx:impl_signs",
+	"blue_skies:bluebright_sign",
+	"blue_skies:comet_sign",
+	"blue_skies:dusk_sign",
+	"blue_skies:frostbright_sign",
+	"blue_skies:lunar_sign",
+	"blue_skies:maple_sign",
+	"blue_skies:starlit_sign",
 	"minecraft:acacia_sign",
 	"minecraft:bamboo_sign",
 	"minecraft:birch_sign",
@@ -13,5 +22,6 @@
 	"tconstruct:bloodshroom_sign",
 	"tconstruct:enderbark_sign",
 	"tconstruct:greenheart_sign",
-	"tconstruct:skyroot_sign"
+	"tconstruct:skyroot_sign",
+	"thermal:rubberwood_sign"
 ]

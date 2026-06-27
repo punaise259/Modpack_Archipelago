@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"item": "kubejs:compressed_bone_meal",
+		"count": 1
+	},
+	"pattern": [
+		"BB ",
+		"BB ",
+		"   "
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bone_meal"
+		}
+	}
+}

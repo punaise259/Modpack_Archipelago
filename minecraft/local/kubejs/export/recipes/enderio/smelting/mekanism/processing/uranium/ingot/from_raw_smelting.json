@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"tag": "forge:raw_materials/uranium"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "mekanism:ingot_uranium"
+	},
+	"energy": 1500,
+	"experience": 0.6,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "mekanism",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

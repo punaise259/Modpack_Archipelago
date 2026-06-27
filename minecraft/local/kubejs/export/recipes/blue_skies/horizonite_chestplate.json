@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"#": {
+			"item": "blue_skies:horizonite_ingot"
+		}
+	},
+	"pattern": [
+		"# #",
+		"###",
+		"###"
+	],
+	"result": {
+		"item": "blue_skies:horizonite_chestplate"
+	},
+	"show_notification": true
+}

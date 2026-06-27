@@ -1,6 +1,20 @@
 {
+	"ad_astra:mercury": "net.minecraft.world.level.dimension.DimensionType",
+	"ad_astra:glacio": "net.minecraft.world.level.dimension.DimensionType",
 	"minecraft:overworld": "net.minecraft.world.level.dimension.DimensionType",
-	"minecraft:the_end": "net.minecraft.world.level.dimension.DimensionType",
 	"minecraft:overworld_caves": "net.minecraft.world.level.dimension.DimensionType",
-	"minecraft:the_nether": "net.minecraft.world.level.dimension.DimensionType"
+	"ae2:spatial_storage": "net.minecraft.world.level.dimension.DimensionType",
+	"ad_astra:mars": "net.minecraft.world.level.dimension.DimensionType",
+	"ad_astra:glacio_orbit": "net.minecraft.world.level.dimension.DimensionType",
+	"ad_astra:venus_orbit": "net.minecraft.world.level.dimension.DimensionType",
+	"ad_astra:venus": "net.minecraft.world.level.dimension.DimensionType",
+	"ad_astra:moon_orbit": "net.minecraft.world.level.dimension.DimensionType",
+	"blue_skies:everdawn": "net.minecraft.world.level.dimension.DimensionType",
+	"blue_skies:everbright": "net.minecraft.world.level.dimension.DimensionType",
+	"ad_astra:mercury_orbit": "net.minecraft.world.level.dimension.DimensionType",
+	"ad_astra:moon": "net.minecraft.world.level.dimension.DimensionType",
+	"minecraft:the_nether": "net.minecraft.world.level.dimension.DimensionType",
+	"ad_astra:mars_orbit": "net.minecraft.world.level.dimension.DimensionType",
+	"ad_astra:earth_orbit": "net.minecraft.world.level.dimension.DimensionType",
+	"minecraft:the_end": "net.minecraft.world.level.dimension.DimensionType"
 }

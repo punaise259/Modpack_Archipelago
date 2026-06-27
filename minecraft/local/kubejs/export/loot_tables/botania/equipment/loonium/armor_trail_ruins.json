@@ -1,0 +1,52 @@
+{
+	"type": "minecraft:selector",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 7,
+					"name": "botania:equipment/loonium/armorset/host_chain"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 7,
+					"name": "botania:equipment/loonium/armorset/wayfinder_chain"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 8,
+					"name": "botania:equipment/loonium/armorset/raiser_iron"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 8,
+					"name": "botania:equipment/loonium/armorset/host_iron"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 3,
+					"name": "botania:equipment/loonium/armorset/raiser_gold"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 3,
+					"name": "botania:equipment/loonium/armorset/shaper_gold"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 2,
+					"name": "botania:equipment/loonium/armorset/shaper_diamond"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 2,
+					"name": "botania:equipment/loonium/armorset/wayfinder_diamond"
+				}
+			]
+		}
+	]
+}

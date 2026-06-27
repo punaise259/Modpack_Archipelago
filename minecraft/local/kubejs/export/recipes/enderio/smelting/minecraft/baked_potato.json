@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:potato"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:baked_potato"
+	},
+	"energy": 1500,
+	"experience": 0.35,
+	"is_smelting": true
+}

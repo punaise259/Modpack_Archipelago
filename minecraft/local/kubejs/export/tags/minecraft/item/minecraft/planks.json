@@ -1,5 +1,25 @@
 [
 	"#tconstruct:slimy_planks",
+	"ad_astra:aeronos_planks",
+	"ad_astra:glacian_planks",
+	"ad_astra:strophar_planks",
+	"blue_skies:bluebright_planks",
+	"blue_skies:comet_planks",
+	"blue_skies:dusk_planks",
+	"blue_skies:frostbright_planks",
+	"blue_skies:lunar_planks",
+	"blue_skies:maple_planks",
+	"blue_skies:starlit_planks",
+	"botania:dreamwood_planks",
+	"botania:framed_dreamwood",
+	"botania:framed_livingwood",
+	"botania:livingwood_planks",
+	"botania:mossy_dreamwood_planks",
+	"botania:mossy_livingwood_planks",
+	"botania:pattern_framed_dreamwood",
+	"botania:pattern_framed_livingwood",
+	"botania:shimmerwood_planks",
+	"immersiveengineering:fiberboard",
 	"minecraft:acacia_planks",
 	"minecraft:bamboo_planks",
 	"minecraft:birch_planks",
@@ -10,5 +30,6 @@
 	"minecraft:mangrove_planks",
 	"minecraft:oak_planks",
 	"minecraft:spruce_planks",
-	"minecraft:warped_planks"
+	"minecraft:warped_planks",
+	"thermal:rubberwood_planks"
 ]

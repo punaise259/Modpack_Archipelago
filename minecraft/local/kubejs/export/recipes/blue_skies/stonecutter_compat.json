@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"#": {
+			"tag": "blue_skies:stone"
+		},
+		"V": {
+			"tag": "blue_skies:ingots/ventium"
+		}
+	},
+	"pattern": [
+		" V ",
+		"###"
+	],
+	"result": {
+		"item": "minecraft:stonecutter"
+	},
+	"show_notification": true
+}

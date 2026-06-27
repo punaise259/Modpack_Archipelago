@@ -1,4 +1,19 @@
 [
+	"#libx:impl_fence_gates",
+	"ad_astra:aeronos_fence_gate",
+	"ad_astra:glacian_fence_gate",
+	"ad_astra:strophar_fence_gate",
+	"blue_skies:bluebright_fence_gate",
+	"blue_skies:comet_fence_gate",
+	"blue_skies:dusk_fence_gate",
+	"blue_skies:frostbright_fence_gate",
+	"blue_skies:lunar_fence_gate",
+	"blue_skies:maple_fence_gate",
+	"blue_skies:starlit_fence_gate",
+	"botania:dreamwood_fence_gate",
+	"botania:livingwood_fence_gate",
+	"enderio:painted_fence_gate",
+	"farmersdelight:rope_fence_gate",
 	"minecraft:acacia_fence_gate",
 	"minecraft:bamboo_fence_gate",
 	"minecraft:birch_fence_gate",
@@ -13,5 +28,6 @@
 	"tconstruct:bloodshroom_fence_gate",
 	"tconstruct:enderbark_fence_gate",
 	"tconstruct:greenheart_fence_gate",
-	"tconstruct:skyroot_fence_gate"
+	"tconstruct:skyroot_fence_gate",
+	"thermal:rubberwood_fence_gate"
 ]

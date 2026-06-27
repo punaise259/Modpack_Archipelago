@@ -1,4 +1,5 @@
 {
-	"minecraft:random_spread": "net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda$3123/0x0000000800b58710",
-	"minecraft:concentric_rings": "net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda$3123/0x0000000800b58710"
+	"structure_gel:grid_placement": "com.legacy.structure_gel.core.registry.SGRegistry$StructurePlacementTypes$$Lambda$20165/0x0000000802875e10",
+	"minecraft:concentric_rings": "net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda$3142/0x0000000800bab7f0",
+	"minecraft:random_spread": "net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda$3142/0x0000000800bab7f0"
 }

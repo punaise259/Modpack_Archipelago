@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "blue_skies:blocks/lunar_cobblestone",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "blue_skies:lunar_cobblestone"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

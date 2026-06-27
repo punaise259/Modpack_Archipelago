@@ -1,4 +1,9 @@
 [
+	"#libx:impl_doors",
 	"#minecraft:wooden_doors",
-	"minecraft:iron_door"
+	"ad_astra:steel_door",
+	"blue_skies:crystallized_door",
+	"enderio:dark_steel_door",
+	"minecraft:iron_door",
+	"thermal:rubberwood_door"
 ]

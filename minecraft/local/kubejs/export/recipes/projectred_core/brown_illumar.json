@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"tag": "forge:dusts/glowstone"
+		},
+		{
+			"tag": "forge:dusts/glowstone"
+		},
+		{
+			"tag": "forge:dyes/brown"
+		},
+		{
+			"tag": "forge:dyes/brown"
+		}
+	],
+	"result": {
+		"item": "projectred_core:brown_illumar"
+	}
+}

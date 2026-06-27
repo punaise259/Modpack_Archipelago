@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "immersiveengineering:raw_lead"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "immersiveengineering:ingot_lead"
+	},
+	"energy": 1500,
+	"experience": 0.7,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "immersiveengineering",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

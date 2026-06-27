@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "farmersdelight:wheat_dough"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:bread"
+	},
+	"energy": 1500,
+	"experience": 0.35,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "farmersdelight",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

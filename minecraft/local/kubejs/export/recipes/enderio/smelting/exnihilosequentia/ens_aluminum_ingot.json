@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "exnihilosequentia:raw_aluminum"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "exnihilosequentia:aluminum_ingot"
+	},
+	"energy": 1500,
+	"experience": 0.7,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "exnihilosequentia",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

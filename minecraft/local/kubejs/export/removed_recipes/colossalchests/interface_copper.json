@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" C ",
+		"CWC",
+		" C "
+	],
+	"key": {
+		"C": {
+			"tag": "forge:cobblestone"
+		},
+		"W": {
+			"item": "colossalchests:chest_wall_copper"
+		}
+	},
+	"result": {
+		"item": "colossalchests:interface_copper"
+	},
+	"conditions": [
+		{
+			"type": "forge:and",
+			"values": [
+				{
+					"type": "forge:not",
+					"value": {
+						"type": "forge:tag_empty",
+						"tag": "forge:ingots/copper"
+					}
+				},
+				{
+					"type": "colossalchests:metal_variants_enabled"
+				}
+			]
+		}
+	]
+}

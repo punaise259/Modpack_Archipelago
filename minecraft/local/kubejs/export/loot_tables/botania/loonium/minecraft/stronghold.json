@@ -1,0 +1,26 @@
+{
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 4,
+					"name": "minecraft:chests/stronghold_corridor"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 6,
+					"name": "minecraft:chests/stronghold_crossing"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 3,
+					"name": "minecraft:chests/stronghold_library"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "exnihilosequentia:silkworm"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "exnihilosequentia:cooked_silkworm"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "exnihilosequentia",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

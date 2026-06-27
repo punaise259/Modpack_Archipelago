@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "botania:metamorphic_swamp_cobblestone"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "botania:metamorphic_swamp_stone"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "botania",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

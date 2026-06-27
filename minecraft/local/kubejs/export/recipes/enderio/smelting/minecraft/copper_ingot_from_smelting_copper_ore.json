@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:copper_ore"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:copper_ingot"
+	},
+	"energy": 1500,
+	"experience": 0.7,
+	"is_smelting": true
+}

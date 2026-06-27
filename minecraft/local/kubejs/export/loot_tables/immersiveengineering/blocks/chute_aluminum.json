@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "immersiveengineering:blocks/chute_aluminum",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:chute_aluminum"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

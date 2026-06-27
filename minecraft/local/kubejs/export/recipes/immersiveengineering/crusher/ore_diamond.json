@@ -1,0 +1,14 @@
+{
+	"type": "immersiveengineering:crusher",
+	"energy": 6000,
+	"input": {
+		"tag": "forge:ores/diamond"
+	},
+	"result": {
+		"base_ingredient": {
+			"item": "minecraft:diamond"
+		},
+		"count": 2
+	},
+	"secondaries": []
+}

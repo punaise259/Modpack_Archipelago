@@ -1,0 +1,9 @@
+{
+	"type": "immersiveengineering:hammer_crushing",
+	"input": {
+		"tag": "forge:ores/gold"
+	},
+	"result": {
+		"tag": "forge:dusts/gold"
+	}
+}

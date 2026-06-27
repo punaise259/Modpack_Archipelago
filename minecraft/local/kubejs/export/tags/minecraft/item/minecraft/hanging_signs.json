@@ -1,4 +1,13 @@
 [
+	"#farmersdelight:hanging_canvas_signs",
+	"#libx:impl_hanging_signs",
+	"blue_skies:bluebright_hanging_sign",
+	"blue_skies:comet_hanging_sign",
+	"blue_skies:dusk_hanging_sign",
+	"blue_skies:frostbright_hanging_sign",
+	"blue_skies:lunar_hanging_sign",
+	"blue_skies:maple_hanging_sign",
+	"blue_skies:starlit_hanging_sign",
 	"minecraft:acacia_hanging_sign",
 	"minecraft:bamboo_hanging_sign",
 	"minecraft:birch_hanging_sign",
@@ -13,5 +22,6 @@
 	"tconstruct:bloodshroom_hanging_sign",
 	"tconstruct:enderbark_hanging_sign",
 	"tconstruct:greenheart_hanging_sign",
-	"tconstruct:skyroot_hanging_sign"
+	"tconstruct:skyroot_hanging_sign",
+	"thermal:rubberwood_hanging_sign"
 ]

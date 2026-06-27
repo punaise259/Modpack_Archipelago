@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:fire_charge"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "cyclic:fireball"
+	},
+	"energy": 1500,
+	"experience": 0.38,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "cyclic",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

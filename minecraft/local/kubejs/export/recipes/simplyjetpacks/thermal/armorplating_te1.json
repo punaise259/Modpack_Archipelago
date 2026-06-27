@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"tit",
+		"iti",
+		"tit"
+	],
+	"key": {
+		"i": {
+			"tag": "forge:ingots/iron"
+		},
+		"t": {
+			"tag": "forge:ingots/tin"
+		}
+	},
+	"result": {
+		"item": "simplyjetpacks:armorplating_te1",
+		"count": 1
+	},
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		}
+	]
+}

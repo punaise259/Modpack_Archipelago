@@ -1,3 +1,8 @@
 [
-	"#minecraft:replaceable"
+	"#minecraft:replaceable",
+	"experienceobelisk:archivers_bookshelf",
+	"experienceobelisk:enchanted_bookshelf",
+	"experienceobelisk:infected_archivers_bookshelf",
+	"experienceobelisk:infected_bookshelf",
+	"experienceobelisk:infected_enchanted_bookshelf"
 ]

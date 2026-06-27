@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"tag": "minecraft:smelts_to_glass"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:glass"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true
+}

@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "thermal:rich_slag_block"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "thermal:polished_rich_slag"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "thermal",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"type": "minecraft:entity",
+	"random_sequence": "blue_skies:entities/stardust_ram/green",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:green_wool"
+				}
+			]
+		},
+		{
+			"name": "pool1",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"name": "blue_skies:entities/stardust_ram"
+				}
+			]
+		},
+		{
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"name": "botania:elementium_axe_beheading"
+				}
+			]
+		}
+	]
+}

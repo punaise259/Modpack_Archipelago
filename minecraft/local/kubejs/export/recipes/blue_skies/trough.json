@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"#": {
+			"tag": "minecraft:wooden_slabs"
+		}
+	},
+	"pattern": [
+		"# #",
+		"###"
+	],
+	"result": {
+		"item": "blue_skies:trough"
+	},
+	"show_notification": true
+}

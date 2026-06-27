@@ -1,4 +1,14 @@
 [
+	"#blue_skies:logs/bluebright",
+	"#blue_skies:logs/comet",
+	"#blue_skies:logs/dusk",
+	"#blue_skies:logs/frostbright",
+	"#blue_skies:logs/lunar",
+	"#blue_skies:logs/maple",
+	"#blue_skies:logs/starlit",
+	"#botania:dreamwood_logs",
+	"#botania:livingwood_logs",
+	"#libx:impl_logs_that_burn",
 	"#minecraft:acacia_logs",
 	"#minecraft:birch_logs",
 	"#minecraft:cherry_logs",
@@ -6,5 +16,6 @@
 	"#minecraft:jungle_logs",
 	"#minecraft:mangrove_logs",
 	"#minecraft:oak_logs",
-	"#minecraft:spruce_logs"
+	"#minecraft:spruce_logs",
+	"ad_astra:glacian_log"
 ]

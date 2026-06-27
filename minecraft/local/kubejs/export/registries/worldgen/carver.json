@@ -1,5 +1,12 @@
 {
 	"minecraft:cave": "net.minecraft.world.level.levelgen.carver.CaveWorldCarver",
 	"minecraft:nether_cave": "net.minecraft.world.level.levelgen.carver.NetherWorldCarver",
-	"minecraft:canyon": "net.minecraft.world.level.levelgen.carver.CanyonWorldCarver"
+	"minecraft:canyon": "net.minecraft.world.level.levelgen.carver.CanyonWorldCarver",
+	"blue_skies:everbright_noise_carver": "com.legacy.blue_skies.registries.SkiesFeatures$Carvers$1",
+	"blue_skies:sky_noise_carver": "com.legacy.blue_skies.world.general_features.carver.SkyNoiseCarver",
+	"blue_skies:everbright_cave_carver": "com.legacy.blue_skies.world.general_features.carver.SkyCaveWorldCarver",
+	"blue_skies:everbright_canyon_carver": "com.legacy.blue_skies.world.general_features.carver.SkyCanyonWorldCarver",
+	"blue_skies:sky_cave_carver": "com.legacy.blue_skies.world.general_features.carver.SkyCaveWorldCarver",
+	"blue_skies:sky_canyon_carver": "com.legacy.blue_skies.world.general_features.carver.SkyCanyonWorldCarver",
+	"ad_astra:crater": "earth.terrarium.adastra.common.world.carver.CraterWorldCarver"
 }

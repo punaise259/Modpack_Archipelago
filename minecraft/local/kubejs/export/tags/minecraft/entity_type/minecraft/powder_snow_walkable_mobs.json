@@ -1,6 +1,11 @@
 [
+	"blue_skies:cosmic_fox",
+	"blue_skies:sliv",
+	"blue_skies:snow_owl",
+	"mekanism:robit",
 	"minecraft:endermite",
 	"minecraft:fox",
 	"minecraft:rabbit",
-	"minecraft:silverfish"
+	"minecraft:silverfish",
+	"thermal:blizz"
 ]

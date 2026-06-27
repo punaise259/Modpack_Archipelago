@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"item": "storagedrawers:obsidian_storage_upgrade",
+		"count": 1
+	},
+	"pattern": [
+		"SSS",
+		"MPM",
+		"SSS"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:obsidian"
+		},
+		"P": {
+			"item": "storagedrawers:upgrade_template"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"tag": "forge:dusts/gold"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:gold_ingot"
+	},
+	"energy": 1500,
+	"experience": 0.5,
+	"is_smelting": true
+}

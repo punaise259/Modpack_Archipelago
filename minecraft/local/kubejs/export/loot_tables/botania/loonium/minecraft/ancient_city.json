@@ -1,0 +1,20 @@
+{
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 9,
+					"name": "minecraft:chests/ancient_city"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "minecraft:chests/ancient_city_ice_box"
+				}
+			]
+		}
+	]
+}

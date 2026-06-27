@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:cactus"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:green_dye"
+	},
+	"energy": 1500,
+	"experience": 1.0,
+	"is_smelting": true
+}

@@ -1,5 +1,6 @@
 [
 	"#minecraft:dirt",
 	"#minecraft:sand",
-	"#minecraft:terracotta"
+	"#minecraft:terracotta",
+	"immersiveengineering:grit_sand"
 ]

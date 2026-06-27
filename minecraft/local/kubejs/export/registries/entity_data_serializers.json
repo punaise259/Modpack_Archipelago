@@ -1,4 +1,9 @@
 {
+	"mekanism:robit_skin": "net.minecraft.network.syncher.EntityDataSerializer$1",
+	"mekanism:security": "net.minecraft.network.syncher.EntityDataSerializer$1",
+	"mekanism:uuid": "net.minecraft.network.syncher.EntityDataSerializer$1",
+	"cofh_core:fluid_stack_eds": "cofh.core.init.CoreEntityDataSerializers$1",
 	"tconstruct:material_variant": "net.minecraft.network.syncher.EntityDataSerializer$1",
-	"tconstruct:fluid": "slimeknights.tconstruct.tools.network.FluidDataSerializer"
+	"tconstruct:fluid": "slimeknights.tconstruct.tools.network.FluidDataSerializer",
+	"immersiveengineering:fluid_stack": "blusunrize.immersiveengineering.common.fluids.IEFluid$EntityFluidSerializer"
 }

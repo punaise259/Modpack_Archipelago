@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"F": {
+			"item": "blue_skies:fox_pelt"
+		},
+		"S": {
+			"tag": "forge:string"
+		}
+	},
+	"pattern": [
+		" S ",
+		"F F",
+		"FFF"
+	],
+	"result": {
+		"item": "blue_skies:bag_of_spoils"
+	},
+	"show_notification": true
+}

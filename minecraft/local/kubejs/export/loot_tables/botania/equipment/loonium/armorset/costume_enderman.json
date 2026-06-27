@@ -1,0 +1,73 @@
+{
+	"type": "minecraft:selector",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Trim:{material:\"minecraft:amethyst\",pattern:\"minecraft:eye\"},display:{color:1908001}}"
+						}
+					],
+					"name": "minecraft:leather_helmet"
+				}
+			]
+		},
+		{
+			"name": "pool1",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{display:{color:1908001}}"
+						}
+					],
+					"name": "minecraft:leather_chestplate"
+				}
+			]
+		},
+		{
+			"name": "pool2",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{display:{color:1908001}}"
+						}
+					],
+					"name": "minecraft:leather_leggings"
+				}
+			]
+		},
+		{
+			"name": "pool3",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{display:{color:1908001}}"
+						}
+					],
+					"name": "minecraft:leather_boots"
+				}
+			]
+		}
+	]
+}

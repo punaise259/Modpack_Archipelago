@@ -1,4 +1,12 @@
 [
+	"cyclic:biomass",
+	"cyclic:biomass_flowing",
+	"cyclic:honey",
+	"cyclic:honey_flowing",
+	"cyclic:xpjuice",
+	"cyclic:xpjuice_flowing",
+	"exnihilosequentia:sea_water",
+	"exnihilosequentia:sea_water_flow",
 	"minecraft:flowing_water",
 	"minecraft:water"
 ]

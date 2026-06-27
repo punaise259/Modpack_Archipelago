@@ -1,7 +1,17 @@
 [
 	"#forge:crops/beetroot",
+	"#forge:crops/cabbage",
 	"#forge:crops/carrot",
 	"#forge:crops/nether_wart",
+	"#forge:crops/onion",
 	"#forge:crops/potato",
-	"#forge:crops/wheat"
+	"#forge:crops/rice",
+	"#forge:crops/tomato",
+	"#forge:crops/wheat",
+	"blue_skies:cryo_root",
+	"blue_skies:fiery_beans",
+	"blue_skies:pine_fruit",
+	"blue_skies:scalefruit",
+	"blue_skies:solnut",
+	"blue_skies:winter_leaves"
 ]

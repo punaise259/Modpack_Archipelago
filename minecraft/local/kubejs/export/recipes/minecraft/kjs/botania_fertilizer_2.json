@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"item": "botania:fertilizer",
+		"count": 1
+	},
+	"pattern": [
+		"BBB",
+		"BBB",
+		"BBB"
+	],
+	"key": {
+		"B": {
+			"item": "kubejs:5x_compressed_bone_meal"
+		}
+	}
+}

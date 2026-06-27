@@ -1,5 +1,9 @@
 [
 	"#minecraft:shrieker_can_listen",
+	"mekanism:gravity_modulate",
+	"mekanism:gravity_modulate_boosted",
+	"mekanism:jetpack_burn",
+	"mekanism:seismic_vibration",
 	"minecraft:block_activate",
 	"minecraft:block_attach",
 	"minecraft:block_change",

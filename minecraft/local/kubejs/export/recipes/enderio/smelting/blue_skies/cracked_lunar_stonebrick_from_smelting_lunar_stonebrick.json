@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "blue_skies:lunar_stonebrick"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "blue_skies:cracked_lunar_stonebrick"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "blue_skies",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"type": "patchouli:shapeless_book_recipe",
+	"ingredients": [
+		{
+			"item": "minecraft:book"
+		},
+		{
+			"item": "simplyjetpacks:leather_strap"
+		}
+	],
+	"book": "simplyjetpacks:guidebook",
+	"result": {
+		"item": "patchouli:guide_book"
+	}
+}

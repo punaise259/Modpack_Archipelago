@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"item": "storagedrawers:gold_storage_upgrade",
+		"count": 1
+	},
+	"pattern": [
+		"SSS",
+		"MPM",
+		"SSS"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:gold_ingot"
+		},
+		"P": {
+			"item": "storagedrawers:iron_storage_upgrade"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		}
+	}
+}

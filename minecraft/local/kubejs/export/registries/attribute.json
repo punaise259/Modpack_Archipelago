@@ -12,6 +12,13 @@
 	"minecraft:generic.luck": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
 	"minecraft:zombie.spawn_reinforcements": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
 	"minecraft:horse.jump_strength": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"botania:pixie_spawn_chance": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:swim_speed": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:nametag_distance": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:entity_gravity": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:block_reach": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:entity_reach": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:step_height_addition": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
 	"tconstruct:generic.bouncy": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
 	"tconstruct:player.use_item_speed": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
 	"tconstruct:generic.protection_cap": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
@@ -24,11 +31,5 @@
 	"tconstruct:player.experience_multiplier": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
 	"tconstruct:generic.crouch_damage_multiplier": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
 	"tconstruct:generic.good_effect_duration_multiplier": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
-	"tconstruct:generic.bad_effect_duration_multiplier": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
-	"forge:swim_speed": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
-	"forge:nametag_distance": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
-	"forge:entity_gravity": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
-	"forge:block_reach": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
-	"forge:entity_reach": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
-	"forge:step_height_addition": "net.minecraft.world.entity.ai.attributes.RangedAttribute"
+	"tconstruct:generic.bad_effect_duration_multiplier": "net.minecraft.world.entity.ai.attributes.RangedAttribute"
 }

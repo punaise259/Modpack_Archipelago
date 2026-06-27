@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"item": "minecraft:bucket",
+		"count": 1
+	},
+	"pattern": [
+		"   ",
+		"P P",
+		" P "
+	],
+	"key": {
+		"P": {
+			"item": "immersiveengineering:plate_iron"
+		}
+	}
+}

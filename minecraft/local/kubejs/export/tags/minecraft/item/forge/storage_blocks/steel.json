@@ -1,3 +1,7 @@
 [
-	"tconstruct:steel_block"
+	"ad_astra:steel_block",
+	"immersiveengineering:storage_steel",
+	"mekanism:block_steel",
+	"tconstruct:steel_block",
+	"thermal:steel_block"
 ]

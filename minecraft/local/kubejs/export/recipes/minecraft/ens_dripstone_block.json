@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "exnihilosequentia",
+	"key": {
+		"x": {
+			"item": "exnihilosequentia:dripstone_pebble"
+		}
+	},
+	"pattern": [
+		"xx",
+		"xx"
+	],
+	"result": {
+		"item": "minecraft:dripstone_block"
+	},
+	"show_notification": true
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "storagedrawers:drawer_key"
+		},
+		{
+			"item": "minecraft:compass"
+		}
+	],
+	"result": {
+		"item": "storagedrawers:priority_key"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"#": {
+			"item": "blue_skies:midnight_sandstone_slab"
+		}
+	},
+	"pattern": [
+		"#",
+		"#"
+	],
+	"result": {
+		"item": "blue_skies:chiseled_midnight_sandstone"
+	},
+	"show_notification": true
+}

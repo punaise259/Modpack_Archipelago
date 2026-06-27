@@ -1,0 +1,18 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "enderio:conduit_binder_composite"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "enderio:conduit_binder",
+		"count": 2
+	},
+	"energy": 1500,
+	"experience": 0.0,
+	"is_smelting": true
+}

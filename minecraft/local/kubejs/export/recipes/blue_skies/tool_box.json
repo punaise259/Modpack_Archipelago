@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"P": {
+			"tag": "minecraft:planks"
+		},
+		"V": {
+			"tag": "blue_skies:ingots/ventium"
+		}
+	},
+	"pattern": [
+		"VV ",
+		"PP ",
+		"PP "
+	],
+	"result": {
+		"item": "blue_skies:tool_box"
+	},
+	"show_notification": true
+}

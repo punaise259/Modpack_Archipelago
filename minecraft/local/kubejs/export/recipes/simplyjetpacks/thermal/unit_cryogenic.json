@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"sls",
+		"lgl",
+		"sls"
+	],
+	"key": {
+		"s": {
+			"tag": "forge:ingots/signalum"
+		},
+		"l": {
+			"tag": "forge:ingots/tin"
+		},
+		"g": {
+			"item": "simplyjetpacks:cryogenic_crystal"
+		}
+	},
+	"result": {
+		"item": "simplyjetpacks:unit_cryogenic",
+		"count": 1
+	},
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+[
+	"#forge:chests/ender",
+	"#forge:cobblestone",
+	"#forge:glass",
+	"#forge:ores",
+	"#forge:stone",
+	"#minecraft:ice",
+	"minecraft:calibrated_sculk_sensor",
+	"minecraft:glowstone",
+	"minecraft:sculk",
+	"minecraft:sculk_catalyst",
+	"minecraft:sculk_sensor",
+	"minecraft:sea_lantern"
+]

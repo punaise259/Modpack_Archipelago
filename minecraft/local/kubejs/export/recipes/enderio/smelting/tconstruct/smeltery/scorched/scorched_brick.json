@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "tconstruct:nether_grout"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "tconstruct:scorched_brick"
+	},
+	"energy": 1500,
+	"experience": 0.3,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "tconstruct",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

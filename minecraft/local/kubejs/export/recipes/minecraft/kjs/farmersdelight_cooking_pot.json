@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"item": "farmersdelight:cooking_pot",
+		"count": 1
+	},
+	"pattern": [
+		"B B",
+		"BPB",
+		"SSS"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:brick"
+		},
+		"S": {
+			"item": "farmersdelight:straw"
+		},
+		"P": {
+			"item": "minecraft:decorated_pot"
+		}
+	}
+}

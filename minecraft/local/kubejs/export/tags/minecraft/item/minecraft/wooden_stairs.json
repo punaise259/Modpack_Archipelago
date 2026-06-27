@@ -1,4 +1,25 @@
 [
+	"#libx:impl_wooden_stairs",
+	"ad_astra:aeronos_stairs",
+	"ad_astra:glacian_stairs",
+	"ad_astra:strophar_stairs",
+	"blue_skies:bluebright_stairs",
+	"blue_skies:comet_stairs",
+	"blue_skies:dusk_stairs",
+	"blue_skies:frostbright_stairs",
+	"blue_skies:lunar_stairs",
+	"blue_skies:maple_stairs",
+	"blue_skies:starlit_stairs",
+	"botania:dreamwood_planks_stairs",
+	"botania:dreamwood_stairs",
+	"botania:livingwood_planks_stairs",
+	"botania:livingwood_stairs",
+	"botania:shimmerwood_planks_stairs",
+	"botania:stripped_dreamwood_stairs",
+	"botania:stripped_livingwood_stairs",
+	"immersiveengineering:stairs_treated_wood_horizontal",
+	"immersiveengineering:stairs_treated_wood_packaged",
+	"immersiveengineering:stairs_treated_wood_vertical",
 	"minecraft:acacia_stairs",
 	"minecraft:bamboo_stairs",
 	"minecraft:birch_stairs",
@@ -13,5 +34,6 @@
 	"tconstruct:bloodshroom_planks_stairs",
 	"tconstruct:enderbark_planks_stairs",
 	"tconstruct:greenheart_planks_stairs",
-	"tconstruct:skyroot_planks_stairs"
+	"tconstruct:skyroot_planks_stairs",
+	"thermal:rubberwood_stairs"
 ]

@@ -1,6 +1,9 @@
 [
 	"#minecraft:dirt",
 	"#minecraft:sand",
+	"farmersdelight:rich_soil",
+	"immersiveengineering:grit_sand",
+	"immersiveengineering:slag_gravel",
 	"minecraft:bamboo",
 	"minecraft:bamboo_sapling",
 	"minecraft:gravel",

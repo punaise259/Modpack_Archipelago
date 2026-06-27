@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "immersiveengineering:blocks/clinker_brick_quoin",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:clinker_brick_quoin"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

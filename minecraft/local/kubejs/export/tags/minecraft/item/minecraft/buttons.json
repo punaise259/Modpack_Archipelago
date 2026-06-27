@@ -1,4 +1,13 @@
 [
+	"#libx:impl_buttons",
 	"#minecraft:stone_buttons",
-	"#minecraft:wooden_buttons"
+	"#minecraft:wooden_buttons",
+	"ad_astra:calorite_plating_button",
+	"ad_astra:desh_plating_button",
+	"ad_astra:glacian_button",
+	"ad_astra:iron_plating_button",
+	"ad_astra:ostrum_plating_button",
+	"ad_astra:steel_plating_button",
+	"blue_skies:lunar_stone_button",
+	"blue_skies:turquoise_stone_button"
 ]

@@ -1,0 +1,20 @@
+{
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 49,
+					"name": "minecraft:chests/end_city_treasure"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:elytra"
+				}
+			]
+		}
+	]
+}

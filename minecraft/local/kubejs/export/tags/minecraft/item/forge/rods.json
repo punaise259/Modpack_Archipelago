@@ -1,4 +1,7 @@
 [
 	"#forge:rods/blaze",
+	"#forge:rods/iron",
+	"#forge:rods/plastic",
+	"#forge:rods/steel",
 	"#forge:rods/wooden"
 ]

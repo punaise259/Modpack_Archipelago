@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"P": {
+			"item": "minecraft:bamboo_planks"
+		},
+		"S": {
+			"item": "farmersdelight:straw"
+		}
+	},
+	"pattern": [
+		"P P",
+		"P P",
+		"S S"
+	],
+	"result": {
+		"item": "exnihilosequentia:bamboo_sieve"
+	},
+	"show_notification": true
+}

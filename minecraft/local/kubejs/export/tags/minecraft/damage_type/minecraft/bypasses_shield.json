@@ -1,5 +1,11 @@
 [
 	"#minecraft:bypasses_armor",
+	"blue_skies:fluctuant_sphere",
+	"blue_skies:rock_stab",
+	"blue_skies:rock_stab.mob",
+	"blue_skies:root",
+	"blue_skies:slam",
+	"blue_skies:summoned_lightning",
 	"minecraft:falling_anvil",
 	"minecraft:falling_stalactite"
 ]

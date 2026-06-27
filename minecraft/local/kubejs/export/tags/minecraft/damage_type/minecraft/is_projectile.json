@@ -1,4 +1,7 @@
 [
+	"blue_skies:rock_stab",
+	"blue_skies:rock_stab.mob",
+	"blue_skies:venom_spit.mob",
 	"minecraft:arrow",
 	"minecraft:fireball",
 	"minecraft:mob_projectile",
@@ -15,5 +18,8 @@
 	"tconstruct:fluid_spike_ranged",
 	"tconstruct:mob_explosion_ranged",
 	"tconstruct:thrown_tool",
-	"tconstruct:water_ranged"
+	"tconstruct:water_ranged",
+	"thermal:basalz_projectile",
+	"thermal:blitz_projectile",
+	"thermal:blizz_projectile"
 ]

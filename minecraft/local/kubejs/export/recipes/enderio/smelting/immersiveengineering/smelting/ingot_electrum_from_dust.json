@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "immersiveengineering:dust_electrum"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "immersiveengineering:ingot_electrum"
+	},
+	"energy": 1500,
+	"experience": 0.0,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "immersiveengineering",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

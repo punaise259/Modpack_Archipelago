@@ -1,0 +1,38 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "immersiveengineering:blocks/slab_coke",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:slab_coke"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			],
+			"functions": [
+				{
+					"function": "minecraft:set_count",
+					"conditions": [
+						{
+							"condition": "minecraft:block_state_property",
+							"block": "immersiveengineering:slab_coke",
+							"properties": {
+								"type": "double"
+							}
+						}
+					],
+					"count": 2.0,
+					"add": false
+				}
+			]
+		}
+	]
+}

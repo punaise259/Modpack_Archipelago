@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"C": {
+			"item": "projectred_core:copper_coil"
+		},
+		"I": {
+			"tag": "forge:ingots/iron"
+		},
+		"R": {
+			"tag": "forge:dusts/redstone"
+		},
+		"S": {
+			"tag": "forge:stone"
+		}
+	},
+	"pattern": [
+		" I ",
+		"SCS",
+		"RCR"
+	],
+	"result": {
+		"item": "projectred_core:motor"
+	}
+}

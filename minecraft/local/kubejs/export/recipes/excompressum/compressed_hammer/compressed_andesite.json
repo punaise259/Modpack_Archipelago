@@ -1,0 +1,28 @@
+{
+	"type": "excompressum:compressed_hammer",
+	"input": {
+		"item": "excompressum:compressed_andesite"
+	},
+	"lootTable": {
+		"type": "minecraft:block",
+		"pools": [
+			{
+				"rolls": 1,
+				"entries": [
+					{
+						"type": "minecraft:tag",
+						"name": "excompressum:crushed_andesites",
+						"expand": true
+					}
+				],
+				"functions": [
+					{
+						"function": "minecraft:set_count",
+						"count": 9
+					}
+				],
+				"conditions": []
+			}
+		]
+	}
+}

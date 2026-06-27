@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "thermal:slag"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "thermal:white_rockwool"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "thermal",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

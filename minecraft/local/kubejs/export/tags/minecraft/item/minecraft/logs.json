@@ -1,6 +1,10 @@
 [
+	"#forge:rubberwood_logs",
+	"#libx:impl_logs",
 	"#minecraft:crimson_stems",
 	"#minecraft:logs_that_burn",
 	"#minecraft:warped_stems",
-	"#tconstruct:slimy_logs"
+	"#tconstruct:slimy_logs",
+	"blue_skies:crystallized_log",
+	"blue_skies:crystallized_wood"
 ]

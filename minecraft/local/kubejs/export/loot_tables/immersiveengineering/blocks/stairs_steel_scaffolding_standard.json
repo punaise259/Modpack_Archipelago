@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "immersiveengineering:blocks/stairs_steel_scaffolding_standard",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:stairs_steel_scaffolding_standard"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

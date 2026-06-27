@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:light_gray_terracotta"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:light_gray_glazed_terracotta"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true
+}

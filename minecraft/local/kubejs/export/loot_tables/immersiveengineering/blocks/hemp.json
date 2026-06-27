@@ -1,0 +1,90 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "immersiveengineering:blocks/hemp",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:seed"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		},
+		{
+			"name": "pool1",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:hemp_fiber"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				},
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "immersiveengineering:hemp",
+					"properties": {
+						"age": "4"
+					}
+				}
+			],
+			"functions": [
+				{
+					"function": "minecraft:apply_bonus",
+					"enchantment": "minecraft:fortune",
+					"formula": "minecraft:binomial_with_bonus_count",
+					"parameters": {
+						"extra": 3,
+						"probability": 0.5
+					}
+				}
+			]
+		},
+		{
+			"name": "pool2",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:hemp_fiber"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				},
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "immersiveengineering:hemp",
+					"properties": {
+						"top": "true"
+					}
+				}
+			],
+			"functions": [
+				{
+					"function": "minecraft:apply_bonus",
+					"enchantment": "minecraft:fortune",
+					"formula": "minecraft:binomial_with_bonus_count",
+					"parameters": {
+						"extra": 3,
+						"probability": 0.625
+					}
+				}
+			]
+		}
+	]
+}

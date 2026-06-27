@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "ad_astra:venus_diamond_ore"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:diamond"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "ad_astra",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

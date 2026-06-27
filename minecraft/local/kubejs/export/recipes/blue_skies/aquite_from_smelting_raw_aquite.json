@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:smelting",
+	"category": "misc",
+	"cookingtime": 200,
+	"experience": 0.8,
+	"group": "aquite_gem",
+	"ingredient": {
+		"item": "blue_skies:raw_aquite"
+	},
+	"result": "blue_skies:aquite"
+}

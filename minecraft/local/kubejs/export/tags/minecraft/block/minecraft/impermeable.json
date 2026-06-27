@@ -1,4 +1,11 @@
 [
+	"blue_skies:crystal_glass",
+	"blue_skies:midnight_glass",
+	"botania:bifrost",
+	"botania:bifrost_perm",
+	"botania:elf_glass",
+	"botania:mana_glass",
+	"mekanism:structural_glass",
 	"minecraft:black_stained_glass",
 	"minecraft:blue_stained_glass",
 	"minecraft:brown_stained_glass",
@@ -41,5 +48,9 @@
 	"tconstruct:seared_tinted_glass",
 	"tconstruct:soul_glass",
 	"tconstruct:white_clear_stained_glass",
-	"tconstruct:yellow_clear_stained_glass"
+	"tconstruct:yellow_clear_stained_glass",
+	"thermal:enderium_glass",
+	"thermal:lumium_glass",
+	"thermal:obsidian_glass",
+	"thermal:signalum_glass"
 ]

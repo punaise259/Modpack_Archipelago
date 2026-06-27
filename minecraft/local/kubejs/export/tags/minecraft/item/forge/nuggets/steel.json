@@ -1,3 +1,7 @@
 [
-	"tconstruct:steel_nugget"
+	"ad_astra:steel_nugget",
+	"immersiveengineering:nugget_steel",
+	"mekanism:nugget_steel",
+	"tconstruct:steel_nugget",
+	"thermal:steel_nugget"
 ]

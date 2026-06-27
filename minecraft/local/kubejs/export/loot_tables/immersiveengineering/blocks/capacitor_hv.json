@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "immersiveengineering:blocks/capacitor_hv",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "immersiveengineering:tile_drop"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

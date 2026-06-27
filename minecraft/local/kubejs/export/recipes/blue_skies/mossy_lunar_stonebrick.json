@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "building",
+	"ingredients": [
+		{
+			"item": "blue_skies:lunar_stonebrick"
+		},
+		[
+			{
+				"item": "blue_skies:lunar_vine"
+			},
+			{
+				"item": "blue_skies:dusk_vine"
+			}
+		]
+	],
+	"result": {
+		"item": "blue_skies:mossy_lunar_stonebrick"
+	}
+}

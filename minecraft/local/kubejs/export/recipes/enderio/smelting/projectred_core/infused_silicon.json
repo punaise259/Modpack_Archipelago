@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "projectred_core:red_silicon_comp"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "projectred_core:infused_silicon"
+	},
+	"energy": 1500,
+	"experience": 0.0,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "projectred_core",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

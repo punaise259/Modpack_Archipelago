@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:smelting",
+	"category": "blocks",
+	"cookingtime": 200,
+	"experience": 0.2,
+	"group": "moonstone",
+	"ingredient": {
+		"item": "blue_skies:everbright_moonstone_ore"
+	},
+	"result": "blue_skies:moonstone"
+}

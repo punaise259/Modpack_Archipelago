@@ -1,8 +1,10 @@
 [
+	"#farmersdelight:tools/knives",
 	"#minecraft:axes",
 	"#minecraft:hoes",
 	"#minecraft:pickaxes",
 	"#minecraft:shovels",
 	"#minecraft:swords",
+	"experienceobelisk:flint_and_cognitive_alloy",
 	"minecraft:trident"
 ]

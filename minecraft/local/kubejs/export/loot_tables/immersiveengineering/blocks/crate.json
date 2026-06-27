@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "immersiveengineering:blocks/crate",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:alternatives",
+					"children": [
+						{
+							"type": "immersiveengineering:tile_drop",
+							"conditions": [
+								{
+									"condition": "minecraft:survives_explosion"
+								}
+							]
+						},
+						{
+							"type": "immersiveengineering:drop_inv"
+						}
+					]
+				}
+			]
+		}
+	]
+}

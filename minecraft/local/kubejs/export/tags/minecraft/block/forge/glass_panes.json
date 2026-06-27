@@ -1,4 +1,7 @@
 [
 	"#forge:glass_panes/colorless",
-	"#forge:stained_glass_panes"
+	"#forge:stained_glass_panes",
+	"botania:bifrost_pane",
+	"botania:elf_glass_pane",
+	"botania:mana_glass_pane"
 ]

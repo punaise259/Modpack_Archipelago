@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:selector",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 5,
+					"name": "botania:equipment/loonium/armorset/sentry_chain"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 3,
+					"name": "botania:equipment/loonium/armorset/sentry_iron"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "botania:equipment/loonium/armorset/sentry_diamond"
+				}
+			]
+		}
+	]
+}

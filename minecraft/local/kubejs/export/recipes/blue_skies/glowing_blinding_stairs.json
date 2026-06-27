@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"#": {
+			"item": "blue_skies:glowing_blinding_stone"
+		}
+	},
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"result": {
+		"count": 4,
+		"item": "blue_skies:glowing_blinding_stairs"
+	},
+	"show_notification": true
+}

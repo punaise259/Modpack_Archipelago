@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "exnihilosequentia:blocks/unfired_crucible",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "exnihilosequentia:unfired_crucible"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

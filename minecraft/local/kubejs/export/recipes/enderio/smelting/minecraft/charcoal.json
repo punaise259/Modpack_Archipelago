@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"tag": "minecraft:logs_that_burn"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:charcoal"
+	},
+	"energy": 1500,
+	"experience": 0.15,
+	"is_smelting": true
+}

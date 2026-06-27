@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"P": {
+			"item": "minecraft:dark_oak_planks"
+		},
+		"S": {
+			"item": "farmersdelight:straw"
+		}
+	},
+	"pattern": [
+		"P P",
+		"P P",
+		"S S"
+	],
+	"result": {
+		"item": "exnihilosequentia:dark_oak_sieve"
+	},
+	"show_notification": true
+}

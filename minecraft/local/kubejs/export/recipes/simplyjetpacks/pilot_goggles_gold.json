@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"G": {
+			"tag": "forge:glass_panes"
+		},
+		"I": {
+			"tag": "forge:ingots/gold"
+		},
+		"S": {
+			"item": "simplyjetpacks:leather_strap"
+		}
+	},
+	"pattern": [
+		" S ",
+		"GIG"
+	],
+	"result": {
+		"item": "simplyjetpacks:pilot_goggles_gold"
+	}
+}

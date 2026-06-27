@@ -1,3 +1,5 @@
 [
-	"minecraft:lightning_bolt"
+	"blue_skies:summoned_lightning",
+	"minecraft:lightning_bolt",
+	"thermal:blitz_projectile"
 ]

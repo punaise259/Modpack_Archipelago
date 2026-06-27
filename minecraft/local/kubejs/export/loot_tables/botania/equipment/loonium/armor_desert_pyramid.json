@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:selector",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 5,
+					"name": "botania:equipment/loonium/armorset/dune_iron"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 2,
+					"name": "botania:equipment/loonium/armorset/dune_gold"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "botania:equipment/loonium/armorset/dune_diamond"
+				}
+			]
+		}
+	]
+}

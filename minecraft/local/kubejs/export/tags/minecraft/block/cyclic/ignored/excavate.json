@@ -1,0 +1,6 @@
+[
+	"#minecraft:shulker_boxes",
+	"cyclic:crate?",
+	"minecraft:chest?",
+	"minecraft:command_block?"
+]

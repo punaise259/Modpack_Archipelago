@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"B": {
+			"tag": "forge:dyes/blue"
+		},
+		"I": {
+			"tag": "forge:ingots/iron"
+		}
+	},
+	"pattern": [
+		"I  ",
+		" IB",
+		" BI"
+	],
+	"result": {
+		"item": "projectred_core:screwdriver",
+		"nbt": "{Damage:0}"
+	}
+}

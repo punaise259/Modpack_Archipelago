@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"R": {
+			"tag": "forge:dusts/redstone"
+		},
+		"S": {
+			"item": "projectred_core:silicon"
+		}
+	},
+	"pattern": [
+		"RRR",
+		"RSR",
+		"RRR"
+	],
+	"result": {
+		"item": "projectred_core:red_silicon_comp"
+	}
+}

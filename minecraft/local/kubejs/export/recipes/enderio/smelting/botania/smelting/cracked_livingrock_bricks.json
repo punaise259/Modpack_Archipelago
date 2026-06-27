@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "botania:livingrock_bricks"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "botania:cracked_livingrock_bricks"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "botania",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

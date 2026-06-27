@@ -1,3 +1,8 @@
 [
-	"#tconstruct:honey"
+	"#tconstruct:honey",
+	"cofh_core:honey",
+	"cyclic:honey",
+	"immersivecooking:honey",
+	"immersivecooking:honey_flowing",
+	"inspirations:honey?"
 ]

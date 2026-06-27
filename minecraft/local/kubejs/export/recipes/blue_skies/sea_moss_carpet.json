@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"#": {
+			"item": "blue_skies:sea_moss_block"
+		}
+	},
+	"pattern": [
+		"##"
+	],
+	"result": {
+		"count": 3,
+		"item": "blue_skies:sea_moss_carpet"
+	},
+	"show_notification": true
+}

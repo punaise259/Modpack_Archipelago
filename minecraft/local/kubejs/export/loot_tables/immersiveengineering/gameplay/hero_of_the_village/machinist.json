@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:empty",
+	"random_sequence": "immersiveengineering:gameplay/hero_of_the_village/machinist",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:component_iron"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:component_steel"
+				}
+			]
+		}
+	]
+}

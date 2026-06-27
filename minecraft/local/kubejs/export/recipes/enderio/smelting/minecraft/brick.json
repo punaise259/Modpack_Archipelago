@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:clay_ball"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:brick"
+	},
+	"energy": 1500,
+	"experience": 0.3,
+	"is_smelting": true
+}

@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "blue_skies:blocks/summoner_trophy",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:copy_state",
+							"block": "blue_skies:summoner_trophy",
+							"properties": [
+								"tier"
+							]
+						},
+						{
+							"function": "minecraft:copy_nbt",
+							"source": "block_entity",
+							"ops": [
+								{
+									"source": "Label",
+									"target": "display.Name",
+									"op": "replace"
+								}
+							]
+						}
+					],
+					"name": "blue_skies:summoner_trophy"
+				}
+			]
+		}
+	]
+}

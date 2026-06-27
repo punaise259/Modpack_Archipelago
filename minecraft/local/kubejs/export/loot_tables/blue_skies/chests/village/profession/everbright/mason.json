@@ -1,0 +1,74 @@
+{
+	"type": "minecraft:chest",
+	"random_sequence": "blue_skies:chests/village/profession/everbright/mason",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": {
+				"type": "minecraft:uniform",
+				"min": 1.0,
+				"max": 5.0
+			},
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 1.0,
+								"max": 3.0
+							},
+							"add": false
+						}
+					],
+					"name": "minecraft:clay_ball"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:flower_pot"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 2,
+					"name": "blue_skies:turquoise_stone"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 2,
+					"name": "blue_skies:turquoise_stonebrick"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 1.0,
+								"max": 4.0
+							},
+							"add": false
+						}
+					],
+					"name": "blue_skies:pine_fruit"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:white_dye"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "blue_skies:taratite"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:emerald"
+				}
+			]
+		}
+	]
+}

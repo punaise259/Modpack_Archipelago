@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"B": {
+			"tag": "blue_skies:storage_blocks/ventium"
+		},
+		"I": {
+			"tag": "blue_skies:ingots/ventium"
+		}
+	},
+	"pattern": [
+		"BBB",
+		" I ",
+		"III"
+	],
+	"result": {
+		"item": "minecraft:anvil"
+	},
+	"show_notification": true
+}

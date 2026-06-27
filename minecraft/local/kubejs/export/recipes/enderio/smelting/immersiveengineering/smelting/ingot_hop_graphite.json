@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "immersiveengineering:dust_hop_graphite"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "immersiveengineering:ingot_hop_graphite"
+	},
+	"energy": 1500,
+	"experience": 0.5,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "immersiveengineering",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

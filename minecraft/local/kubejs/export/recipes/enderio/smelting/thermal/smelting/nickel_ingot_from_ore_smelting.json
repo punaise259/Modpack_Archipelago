@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "thermal:nickel_ore"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "thermal:nickel_ingot"
+	},
+	"energy": 1500,
+	"experience": 1.0,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "thermal",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

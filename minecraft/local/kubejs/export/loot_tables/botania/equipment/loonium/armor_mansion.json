@@ -1,0 +1,68 @@
+{
+	"type": "minecraft:selector",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 2,
+					"name": "botania:equipment/loonium/armorset/costume_evoker"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 2,
+					"name": "botania:equipment/loonium/armorset/costume_vindicator"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "botania:equipment/loonium/armorset/costume_illusioner"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"conditions": [
+						{
+							"condition": "minecraft:any_of",
+							"terms": [
+								{
+									"condition": "minecraft:random_chance",
+									"chance": 0.005
+								},
+								{
+									"condition": "minecraft:entity_properties",
+									"predicate": {
+										"flags": {
+											"is_baby": true
+										}
+									},
+									"entity": "this"
+								}
+							]
+						}
+					],
+					"weight": 45,
+					"name": "botania:equipment/loonium/armorset/costume_vex"
+				}
+			]
+		},
+		{
+			"name": "pool1",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:totem_of_undying"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.05
+				}
+			]
+		}
+	]
+}

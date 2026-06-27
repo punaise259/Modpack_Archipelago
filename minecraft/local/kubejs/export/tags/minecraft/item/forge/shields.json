@@ -1,3 +1,9 @@
 [
+	"cyclic:shield_bone?",
+	"cyclic:shield_flint?",
+	"cyclic:shield_leather?",
+	"cyclic:shield_obsidian?",
+	"cyclic:shield_wood?",
+	"minecraft:shield",
 	"minecraft:shield"
 ]

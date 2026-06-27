@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "immersiveengineering:blocks/conveyor_vertical",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:conveyor_vertical"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			],
+			"functions": [
+				{
+					"function": "immersiveengineering:conveyor_cover"
+				}
+			]
+		}
+	]
+}

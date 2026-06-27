@@ -1,5 +1,7 @@
 [
+	"#forge:chests/electric",
 	"#forge:chests/ender",
+	"#forge:chests/personal",
 	"#forge:chests/trapped",
 	"#forge:chests/wooden"
 ]

@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "thermal:copper_dust"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:copper_ingot"
+	},
+	"energy": 1500,
+	"experience": 0.0,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "thermal",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

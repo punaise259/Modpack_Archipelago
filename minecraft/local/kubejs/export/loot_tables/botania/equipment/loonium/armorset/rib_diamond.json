@@ -1,0 +1,89 @@
+{
+	"type": "minecraft:selector",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": {
+				"type": "minecraft:uniform",
+				"min": 0.0,
+				"max": 1.0
+			},
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Trim:{material:\"minecraft:iron\",pattern:\"minecraft:rib\"}}"
+						}
+					],
+					"name": "minecraft:diamond_helmet"
+				}
+			]
+		},
+		{
+			"name": "pool1",
+			"rolls": {
+				"type": "minecraft:uniform",
+				"min": 0.0,
+				"max": 1.0
+			},
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Trim:{material:\"minecraft:iron\",pattern:\"minecraft:rib\"}}"
+						}
+					],
+					"name": "minecraft:diamond_chestplate"
+				}
+			]
+		},
+		{
+			"name": "pool2",
+			"rolls": {
+				"type": "minecraft:uniform",
+				"min": 0.0,
+				"max": 1.0
+			},
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Trim:{material:\"minecraft:iron\",pattern:\"minecraft:rib\"}}"
+						}
+					],
+					"name": "minecraft:diamond_leggings"
+				}
+			]
+		},
+		{
+			"name": "pool3",
+			"rolls": {
+				"type": "minecraft:uniform",
+				"min": 0.0,
+				"max": 1.0
+			},
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Trim:{material:\"minecraft:iron\",pattern:\"minecraft:rib\"}}"
+						}
+					],
+					"name": "minecraft:diamond_boots"
+				}
+			]
+		}
+	]
+}

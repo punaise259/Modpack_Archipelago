@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"P": {
+			"item": "projectred_core:plate"
+		},
+		"S": {
+			"tag": "forge:stone"
+		},
+		"T": {
+			"item": "minecraft:redstone_torch"
+		}
+	},
+	"pattern": [
+		"S",
+		"T",
+		"P"
+	],
+	"result": {
+		"item": "projectred_core:pointer"
+	}
+}

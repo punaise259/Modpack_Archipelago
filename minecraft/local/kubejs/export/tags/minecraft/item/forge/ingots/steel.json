@@ -1,3 +1,7 @@
 [
-	"tconstruct:steel_ingot"
+	"ad_astra:steel_ingot",
+	"immersiveengineering:ingot_steel",
+	"mekanism:ingot_steel",
+	"tconstruct:steel_ingot",
+	"thermal:steel_ingot"
 ]

@@ -1,4 +1,17 @@
 [
+	"#libx:impl_wooden_fences",
+	"ad_astra:aeronos_fence",
+	"ad_astra:glacian_fence",
+	"ad_astra:strophar_fence",
+	"blue_skies:bluebright_fence",
+	"blue_skies:comet_fence",
+	"blue_skies:dusk_fence",
+	"blue_skies:frostbright_fence",
+	"blue_skies:lunar_fence",
+	"blue_skies:maple_fence",
+	"blue_skies:starlit_fence",
+	"botania:dreamwood_fence",
+	"botania:livingwood_fence",
 	"minecraft:acacia_fence",
 	"minecraft:bamboo_fence",
 	"minecraft:birch_fence",
@@ -13,5 +26,6 @@
 	"tconstruct:bloodshroom_fence",
 	"tconstruct:enderbark_fence",
 	"tconstruct:greenheart_fence",
-	"tconstruct:skyroot_fence"
+	"tconstruct:skyroot_fence",
+	"thermal:rubberwood_fence"
 ]

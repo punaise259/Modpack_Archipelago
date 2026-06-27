@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"sls",
+		"lgl",
+		"sls"
+	],
+	"key": {
+		"s": {
+			"tag": "forge:ingots/signalum"
+		},
+		"l": {
+			"tag": "forge:ingots/lumium"
+		},
+		"g": {
+			"item": "thermal:obsidian_glass"
+		}
+	},
+	"result": {
+		"item": "simplyjetpacks:unit_glowstone_empty",
+		"count": 1
+	},
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		}
+	]
+}

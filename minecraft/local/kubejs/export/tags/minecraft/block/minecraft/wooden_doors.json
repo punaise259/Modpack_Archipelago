@@ -1,4 +1,16 @@
 [
+	"#libx:impl_wooden_doors",
+	"ad_astra:aeronos_door",
+	"ad_astra:glacian_door",
+	"ad_astra:strophar_door",
+	"blue_skies:bluebright_door",
+	"blue_skies:comet_door",
+	"blue_skies:crystallized_door",
+	"blue_skies:dusk_door",
+	"blue_skies:frostbright_door",
+	"blue_skies:lunar_door",
+	"blue_skies:maple_door",
+	"blue_skies:starlit_door",
 	"minecraft:acacia_door",
 	"minecraft:bamboo_door",
 	"minecraft:birch_door",
@@ -13,5 +25,6 @@
 	"tconstruct:bloodshroom_door",
 	"tconstruct:enderbark_door",
 	"tconstruct:greenheart_door",
-	"tconstruct:skyroot_door"
+	"tconstruct:skyroot_door",
+	"thermal:rubberwood_door"
 ]

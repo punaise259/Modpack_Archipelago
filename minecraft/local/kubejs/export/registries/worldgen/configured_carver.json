@@ -1,6 +1,13 @@
 {
+	"blue_skies:everbright_canyon_carver": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
+	"minecraft:canyon": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
 	"minecraft:cave": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
+	"blue_skies:everbright_noise_carver": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
+	"blue_skies:sky_noise_carver": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
+	"blue_skies:sky_canyon_carver": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
 	"minecraft:cave_extra_underground": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
-	"minecraft:nether_cave": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
-	"minecraft:canyon": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver"
+	"blue_skies:everbright_cave_carver": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
+	"blue_skies:sky_cave_carver": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
+	"ad_astra:moon_crater": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver",
+	"minecraft:nether_cave": "net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver"
 }

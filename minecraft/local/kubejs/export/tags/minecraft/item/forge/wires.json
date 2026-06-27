@@ -1,0 +1,7 @@
+[
+	"#forge:wires/aluminum",
+	"#forge:wires/copper",
+	"#forge:wires/electrum",
+	"#forge:wires/lead",
+	"#forge:wires/steel"
+]

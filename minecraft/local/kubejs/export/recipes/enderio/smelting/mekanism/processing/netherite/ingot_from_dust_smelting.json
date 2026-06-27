@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"tag": "forge:dusts/netherite"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:netherite_ingot"
+	},
+	"energy": 1500,
+	"experience": 1.0,
+	"is_smelting": true
+}

@@ -1,0 +1,7 @@
+{
+	"type": "mob_grinding_utils:beheading",
+	"entity": "minecraft:cave_spider",
+	"result": {
+		"item": "tconstruct:cave_spider_head"
+	}
+}

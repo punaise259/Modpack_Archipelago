@@ -1,3 +1,9 @@
 [
-	"#minecraft:rails"
+	"#minecraft:rails",
+	"cyclic:cloud?",
+	"cyclic:cloud_membrane?",
+	"cyclic:conveyor?",
+	"cyclic:flower_cyan?",
+	"cyclic:ghost?",
+	"cyclic:ghost_phantom?"
 ]

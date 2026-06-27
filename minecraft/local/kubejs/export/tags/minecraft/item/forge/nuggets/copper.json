@@ -1,3 +1,7 @@
 [
-	"tconstruct:copper_nugget"
+	"cyclic:copper_nugget",
+	"exnihilosequentia:copper_nugget",
+	"immersiveengineering:nugget_copper",
+	"tconstruct:copper_nugget",
+	"thermal:copper_nugget"
 ]

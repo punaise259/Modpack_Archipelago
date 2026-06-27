@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"result": {
+		"item": "immersiveengineering:plate_copper",
+		"count": 1
+	},
+	"ingredients": [
+		{
+			"tag": "forge:ingots/copper"
+		},
+		{
+			"tag": "forge:ingots/copper"
+		},
+		{
+			"item": "immersiveengineering:hammer"
+		}
+	]
+}

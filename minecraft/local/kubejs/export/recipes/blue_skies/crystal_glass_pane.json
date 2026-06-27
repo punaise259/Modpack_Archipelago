@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"#": {
+			"item": "blue_skies:crystal_glass"
+		}
+	},
+	"pattern": [
+		"###",
+		"###"
+	],
+	"result": {
+		"count": 16,
+		"item": "blue_skies:crystal_glass_pane"
+	},
+	"show_notification": true
+}

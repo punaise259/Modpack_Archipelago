@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:cobbled_deepslate"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:deepslate"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true
+}

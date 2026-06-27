@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:wet_sponge"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:sponge"
+	},
+	"energy": 1500,
+	"experience": 0.15,
+	"is_smelting": true
+}

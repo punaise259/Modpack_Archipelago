@@ -1,9 +1,13 @@
 [
+	"#blue_skies:stone",
 	"#minecraft:base_stone_nether",
 	"#minecraft:base_stone_overworld",
 	"#minecraft:dirt",
 	"#minecraft:nylium",
 	"#minecraft:terracotta",
+	"immersiveengineering:grit_sand",
+	"immersiveengineering:slag_gravel",
+	"mekanism:block_salt",
 	"minecraft:calcite",
 	"minecraft:clay",
 	"minecraft:dripstone_block",

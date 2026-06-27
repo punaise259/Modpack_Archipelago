@@ -1,0 +1,7 @@
+{
+	"type": "mob_grinding_utils:beheading",
+	"entity": "minecraft:piglin_brute",
+	"result": {
+		"item": "tconstruct:piglin_brute_head"
+	}
+}

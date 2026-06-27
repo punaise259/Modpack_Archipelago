@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"ILI",
+		"III"
+	],
+	"key": {
+		"I": {
+			"tag": "forge:ingots/silver"
+		},
+		"L": {
+			"tag": "minecraft:logs"
+		}
+	},
+	"result": {
+		"item": "colossalchests:chest_wall_silver"
+	},
+	"conditions": [
+		{
+			"type": "forge:and",
+			"values": [
+				{
+					"type": "forge:not",
+					"value": {
+						"type": "forge:tag_empty",
+						"tag": "forge:ingots/silver"
+					}
+				},
+				{
+					"type": "colossalchests:metal_variants_enabled"
+				}
+			]
+		}
+	]
+}

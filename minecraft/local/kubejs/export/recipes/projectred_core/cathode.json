@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"P": {
+			"item": "projectred_core:plate"
+		},
+		"T": {
+			"item": "minecraft:redstone_torch"
+		}
+	},
+	"pattern": [
+		"T",
+		"P"
+	],
+	"result": {
+		"item": "projectred_core:cathode"
+	}
+}

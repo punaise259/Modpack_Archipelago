@@ -1,9 +1,16 @@
 {
-	"minecraft:jungle": "net.minecraft.world.entity.npc.VillagerType",
-	"minecraft:snow": "net.minecraft.world.entity.npc.VillagerType",
-	"minecraft:desert": "net.minecraft.world.entity.npc.VillagerType",
-	"minecraft:taiga": "net.minecraft.world.entity.npc.VillagerType",
+	"blue_skies:crystal_dunes": "net.minecraft.world.entity.npc.VillagerType",
+	"blue_skies:sunset_maple_forest": "net.minecraft.world.entity.npc.VillagerType",
 	"minecraft:plains": "net.minecraft.world.entity.npc.VillagerType",
+	"blue_skies:unorthodox_valley": "net.minecraft.world.entity.npc.VillagerType",
+	"blue_skies:brightlands": "net.minecraft.world.entity.npc.VillagerType",
+	"minecraft:snow": "net.minecraft.world.entity.npc.VillagerType",
+	"minecraft:jungle": "net.minecraft.world.entity.npc.VillagerType",
 	"minecraft:swamp": "net.minecraft.world.entity.npc.VillagerType",
-	"minecraft:savanna": "net.minecraft.world.entity.npc.VillagerType"
+	"blue_skies:slushlands": "net.minecraft.world.entity.npc.VillagerType",
+	"minecraft:desert": "net.minecraft.world.entity.npc.VillagerType",
+	"blue_skies:calming_skies": "net.minecraft.world.entity.npc.VillagerType",
+	"minecraft:savanna": "net.minecraft.world.entity.npc.VillagerType",
+	"blue_skies:shaded_woodlands": "net.minecraft.world.entity.npc.VillagerType",
+	"minecraft:taiga": "net.minecraft.world.entity.npc.VillagerType"
 }

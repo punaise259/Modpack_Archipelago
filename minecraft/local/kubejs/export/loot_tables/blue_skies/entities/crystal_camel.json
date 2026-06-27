@@ -1,0 +1,85 @@
+{
+	"type": "minecraft:entity",
+	"random_sequence": "blue_skies:entities/crystal_camel",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 0.0,
+								"max": 2.0
+							},
+							"add": false
+						}
+					],
+					"name": "blue_skies:vitreous_moonstone"
+				}
+			],
+			"functions": [
+				{
+					"function": "minecraft:looting_enchant",
+					"count": {
+						"type": "minecraft:uniform",
+						"min": 0.0,
+						"max": 1.0
+					}
+				}
+			]
+		},
+		{
+			"name": "pool1",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 0.0,
+								"max": 2.0
+							},
+							"add": false
+						}
+					],
+					"name": "minecraft:bone"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:killed_by_player"
+				}
+			],
+			"functions": [
+				{
+					"function": "minecraft:looting_enchant",
+					"count": {
+						"type": "minecraft:uniform",
+						"min": 0.0,
+						"max": 1.0
+					}
+				}
+			]
+		},
+		{
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"name": "botania:elementium_axe_beheading"
+				}
+			]
+		}
+	]
+}

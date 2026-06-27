@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:netherrack"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:nether_brick"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true
+}

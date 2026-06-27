@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"item": "minecraft:furnace",
+		"count": 1
+	},
+	"pattern": [
+		"CCC",
+		"C C",
+		"CCC"
+	],
+	"key": {
+		"C": {
+			"item": "excompressum:compressed_cobblestone"
+		}
+	}
+}

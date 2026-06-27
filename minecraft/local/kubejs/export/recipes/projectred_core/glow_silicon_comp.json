@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"G": {
+			"tag": "forge:dusts/glowstone"
+		},
+		"S": {
+			"item": "projectred_core:silicon"
+		}
+	},
+	"pattern": [
+		"GGG",
+		"GSG",
+		"GGG"
+	],
+	"result": {
+		"item": "projectred_core:glow_silicon_comp"
+	}
+}

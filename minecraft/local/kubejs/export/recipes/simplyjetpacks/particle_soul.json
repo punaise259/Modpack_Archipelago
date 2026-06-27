@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"P": {
+			"item": "simplyjetpacks:particle_blend"
+		},
+		"T": {
+			"item": "minecraft:soul_torch"
+		}
+	},
+	"pattern": [
+		" T ",
+		"TPT",
+		" T "
+	],
+	"result": {
+		"item": "simplyjetpacks:particle_soul"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:chorus_fruit"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:popped_chorus_fruit"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true
+}

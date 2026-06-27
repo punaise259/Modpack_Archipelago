@@ -1,13 +1,17 @@
 {
-	"minecraft:alternatives": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
 	"minecraft:tag": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
+	"minecraft:loot_table": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
+	"tconstruct:tag_preference": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
 	"mantle:tag_preference": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
 	"minecraft:group": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
-	"minecraft:dynamic": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
-	"tconstruct:tag_preference": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
-	"minecraft:loot_table": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
 	"minecraft:empty": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
+	"minecraft:dynamic": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
 	"minecraft:item": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
+	"libx:all": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
+	"immersiveengineering:multiblock": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
+	"immersiveengineering:drop_inv": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
 	"tconstruct:tool_part": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
-	"minecraft:sequence": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType"
+	"immersiveengineering:tile_drop": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
+	"minecraft:sequence": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType",
+	"minecraft:alternatives": "net.minecraft.world.level.storage.loot.entries.LootPoolEntryType"
 }

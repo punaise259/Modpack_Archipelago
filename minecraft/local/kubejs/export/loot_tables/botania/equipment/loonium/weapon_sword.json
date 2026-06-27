@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:selector",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 4,
+					"name": "minecraft:iron_sword"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_sword"
+				}
+			],
+			"functions": [
+				{
+					"function": "minecraft:enchant_randomly",
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.3
+						}
+					]
+				}
+			]
+		}
+	]
+}

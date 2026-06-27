@@ -1,5 +1,13 @@
 [
 	"#tconstruct:slimy_saplings",
+	"blue_skies:bluebright_sapling",
+	"blue_skies:comet_sapling",
+	"blue_skies:crescent_fruit_sapling",
+	"blue_skies:dusk_sapling",
+	"blue_skies:frostbright_sapling",
+	"blue_skies:lunar_sapling",
+	"blue_skies:maple_sapling",
+	"blue_skies:starlit_sapling",
 	"minecraft:acacia_sapling",
 	"minecraft:azalea",
 	"minecraft:birch_sapling",
@@ -9,5 +17,6 @@
 	"minecraft:jungle_sapling",
 	"minecraft:mangrove_propagule",
 	"minecraft:oak_sapling",
-	"minecraft:spruce_sapling"
+	"minecraft:spruce_sapling",
+	"thermal:rubberwood_sapling"
 ]

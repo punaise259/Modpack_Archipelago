@@ -1,4 +1,7 @@
 [
+	"botania:crystal_bow",
+	"botania:livingwood_bow",
+	"mekanism:electric_bow",
 	"minecraft:bow",
 	"tconstruct:longbow"
 ]

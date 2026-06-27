@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "thermal:cinnabar_ore"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "thermal:cinnabar"
+	},
+	"energy": 1500,
+	"experience": 0.5,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "thermal",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

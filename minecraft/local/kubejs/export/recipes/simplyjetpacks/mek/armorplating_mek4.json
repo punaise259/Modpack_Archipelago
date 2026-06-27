@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ici",
+		"cic",
+		"ici"
+	],
+	"key": {
+		"i": {
+			"tag": "forge:ingots/osmium"
+		},
+		"c": {
+			"tag": "forge:circuits/ultimate"
+		}
+	},
+	"result": {
+		"item": "simplyjetpacks:armorplating_mek4",
+		"count": 1
+	},
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	]
+}

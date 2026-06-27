@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"item": "storagedrawers:copper_storage_upgrade",
+		"count": 1
+	},
+	"pattern": [
+		"SSS",
+		"MPM",
+		"SSS"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:copper_ingot"
+		},
+		"P": {
+			"item": "storagedrawers:obsidian_storage_upgrade"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		}
+	}
+}

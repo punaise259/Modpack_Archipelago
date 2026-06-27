@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "thermal:enderium_dust"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "thermal:enderium_ingot"
+	},
+	"energy": 1500,
+	"experience": 0.0,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "thermal",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

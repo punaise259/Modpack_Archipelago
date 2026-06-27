@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "exnihilosequentia:blocks/crimson_barrel",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "exnihilosequentia:crimson_barrel"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

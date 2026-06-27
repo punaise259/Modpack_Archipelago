@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "redstone",
+	"key": {
+		"C": {
+			"item": "blue_skies:turquoise_cobblestone"
+		},
+		"S": [
+			{
+				"item": "blue_skies:bluebright_stick"
+			},
+			{
+				"item": "blue_skies:starlit_stick"
+			}
+		]
+	},
+	"pattern": [
+		"S",
+		"C"
+	],
+	"result": {
+		"item": "blue_skies:turquoise_lever"
+	},
+	"show_notification": true
+}

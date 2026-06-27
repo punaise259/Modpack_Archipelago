@@ -1,5 +1,7 @@
 [
 	"#minecraft:wooden_fences",
+	"botania:dreamwood_fence",
+	"botania:livingwood_fence",
 	"tconstruct:bloodshroom_fence",
 	"tconstruct:enderbark_fence",
 	"tconstruct:greenheart_fence",

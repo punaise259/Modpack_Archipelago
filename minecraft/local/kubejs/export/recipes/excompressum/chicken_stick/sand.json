@@ -1,0 +1,22 @@
+{
+	"type": "excompressum:chicken_stick",
+	"input": {
+		"item": "minecraft:sand"
+	},
+	"lootTable": {
+		"type": "minecraft:block",
+		"pools": [
+			{
+				"rolls": 1,
+				"entries": [
+					{
+						"type": "minecraft:tag",
+						"name": "excompressum:dusts",
+						"expand": true
+					}
+				],
+				"conditions": []
+			}
+		]
+	}
+}

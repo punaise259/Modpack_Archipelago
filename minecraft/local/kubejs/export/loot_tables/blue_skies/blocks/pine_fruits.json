@@ -1,0 +1,118 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "blue_skies:blocks/pine_fruits",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:apply_bonus",
+							"conditions": [
+								{
+									"condition": "minecraft:block_state_property",
+									"block": "blue_skies:pine_fruits",
+									"properties": {
+										"age": "3"
+									}
+								}
+							],
+							"enchantment": "minecraft:fortune",
+							"formula": "minecraft:binomial_with_bonus_count",
+							"parameters": {
+								"extra": 2,
+								"probability": 0.2
+							}
+						}
+					],
+					"name": "blue_skies:pine_fruit_seeds"
+				}
+			]
+		},
+		{
+			"name": "pool1",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:apply_bonus",
+							"enchantment": "minecraft:fortune",
+							"formula": "minecraft:binomial_with_bonus_count",
+							"parameters": {
+								"extra": 1,
+								"probability": 0.4
+							}
+						}
+					],
+					"name": "blue_skies:pine_fruit"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "blue_skies:pine_fruits",
+					"properties": {
+						"age": "3"
+					}
+				},
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "blue_skies:pine_fruits",
+					"properties": {
+						"half": "upper"
+					}
+				}
+			]
+		},
+		{
+			"name": "pool2",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:apply_bonus",
+							"enchantment": "minecraft:fortune",
+							"formula": "minecraft:binomial_with_bonus_count",
+							"parameters": {
+								"extra": 1,
+								"probability": 0.2
+							}
+						}
+					],
+					"name": "blue_skies:pine_fruit"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "blue_skies:pine_fruits",
+					"properties": {
+						"age": "3"
+					}
+				},
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "blue_skies:pine_fruits",
+					"properties": {
+						"half": "lower"
+					}
+				}
+			]
+		}
+	],
+	"functions": [
+		{
+			"function": "minecraft:explosion_decay"
+		}
+	]
+}

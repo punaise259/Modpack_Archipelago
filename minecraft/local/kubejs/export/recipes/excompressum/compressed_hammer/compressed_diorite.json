@@ -1,0 +1,34 @@
+{
+	"type": "excompressum:compressed_hammer",
+	"input": {
+		"item": "excompressum:compressed_diorite"
+	},
+	"lootTable": {
+		"type": "minecraft:block",
+		"pools": [
+			{
+				"rolls": 1,
+				"entries": [
+					{
+						"type": "minecraft:tag",
+						"name": "excompressum:crushed_diorites",
+						"expand": true
+					}
+				],
+				"functions": [
+					{
+						"function": "minecraft:set_count",
+						"count": 9
+					}
+				],
+				"conditions": []
+			}
+		]
+	},
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "exnihilosequentia"
+		}
+	]
+}

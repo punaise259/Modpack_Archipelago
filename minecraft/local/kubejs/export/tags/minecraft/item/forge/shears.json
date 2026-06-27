@@ -1,4 +1,8 @@
 [
+	"botania:elementium_shears",
+	"botania:manasteel_shears",
+	"cyclic:shears_flint?",
+	"cyclic:shears_obsidian?",
 	"minecraft:shears",
 	"tconstruct:kama"
 ]

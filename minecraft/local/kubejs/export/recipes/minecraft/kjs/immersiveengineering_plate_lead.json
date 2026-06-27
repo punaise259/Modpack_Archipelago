@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"result": {
+		"item": "immersiveengineering:plate_lead",
+		"count": 1
+	},
+	"ingredients": [
+		{
+			"tag": "forge:ingots/lead"
+		},
+		{
+			"tag": "forge:ingots/lead"
+		},
+		{
+			"item": "immersiveengineering:hammer"
+		}
+	]
+}

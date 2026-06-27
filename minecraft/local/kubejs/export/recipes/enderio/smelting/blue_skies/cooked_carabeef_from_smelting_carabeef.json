@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "blue_skies:carabeef"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "blue_skies:cooked_carabeef"
+	},
+	"energy": 1500,
+	"experience": 0.35,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "blue_skies",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "exnihilosequentia:blocks/spruce_sieve",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "exnihilosequentia:spruce_sieve"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

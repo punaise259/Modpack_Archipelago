@@ -1,6 +1,11 @@
 [
 	"#minecraft:is_ocean",
 	"#minecraft:is_river",
+	"blue_skies:brumble_forest",
+	"blue_skies:deep_peeking_ocean",
+	"blue_skies:moonlit_reservoir",
+	"blue_skies:peeking_ocean",
+	"blue_skies:rising_creek",
 	"minecraft:mangrove_swamp",
 	"minecraft:swamp"
 ]

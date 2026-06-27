@@ -1,4 +1,5 @@
 [
+	"cyclic:glass_connected?",
 	"minecraft:glass",
 	"tconstruct:clear_glass"
 ]

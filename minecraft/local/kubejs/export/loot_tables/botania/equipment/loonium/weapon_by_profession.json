@@ -1,0 +1,99 @@
+{
+	"type": "minecraft:selector",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"conditions": [
+						{
+							"condition": "minecraft:entity_properties",
+							"predicate": {
+								"nbt": "{VillagerData:{profession:\"minecraft:butcher\"}}"
+							},
+							"entity": "this"
+						}
+					],
+					"functions": [
+						{
+							"function": "minecraft:enchant_randomly",
+							"conditions": [
+								{
+									"condition": "minecraft:random_chance",
+									"chance": 0.3
+								}
+							]
+						}
+					],
+					"name": "botania:equipment/loonium/weapon_axe"
+				},
+				{
+					"type": "minecraft:item",
+					"conditions": [
+						{
+							"condition": "minecraft:entity_properties",
+							"predicate": {
+								"nbt": "{VillagerData:{profession:\"minecraft:farmer\"}}"
+							},
+							"entity": "this"
+						}
+					],
+					"name": "minecraft:iron_hoe"
+				},
+				{
+					"type": "minecraft:item",
+					"conditions": [
+						{
+							"condition": "minecraft:entity_properties",
+							"predicate": {
+								"nbt": "{VillagerData:{profession:\"minecraft:fisherman\"}}"
+							},
+							"entity": "this"
+						}
+					],
+					"name": "minecraft:fishing_rod"
+				},
+				{
+					"type": "minecraft:item",
+					"conditions": [
+						{
+							"condition": "minecraft:entity_properties",
+							"predicate": {
+								"nbt": "{VillagerData:{profession:\"minecraft:toolsmith\"}}"
+							},
+							"entity": "this"
+						}
+					],
+					"name": "minecraft:iron_pickaxe"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"conditions": [
+						{
+							"condition": "minecraft:entity_properties",
+							"predicate": {
+								"nbt": "{VillagerData:{profession:\"minecraft:weaponsmith\"}}"
+							},
+							"entity": "this"
+						}
+					],
+					"functions": [
+						{
+							"function": "minecraft:enchant_randomly",
+							"conditions": [
+								{
+									"condition": "minecraft:random_chance",
+									"chance": 0.3
+								}
+							]
+						}
+					],
+					"name": "botania:equipment/loonium/weapon_sword"
+				}
+			]
+		}
+	]
+}

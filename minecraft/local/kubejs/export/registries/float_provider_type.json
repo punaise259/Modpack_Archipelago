@@ -1,6 +1,6 @@
 {
-	"minecraft:constant": "net.minecraft.util.valueproviders.FloatProviderType$$Lambda$2541/0x0000000800ad8480",
-	"minecraft:uniform": "net.minecraft.util.valueproviders.FloatProviderType$$Lambda$2541/0x0000000800ad8480",
-	"minecraft:clamped_normal": "net.minecraft.util.valueproviders.FloatProviderType$$Lambda$2541/0x0000000800ad8480",
-	"minecraft:trapezoid": "net.minecraft.util.valueproviders.FloatProviderType$$Lambda$2541/0x0000000800ad8480"
+	"minecraft:constant": "net.minecraft.util.valueproviders.FloatProviderType$$Lambda$2560/0x0000000800b29440",
+	"minecraft:clamped_normal": "net.minecraft.util.valueproviders.FloatProviderType$$Lambda$2560/0x0000000800b29440",
+	"minecraft:uniform": "net.minecraft.util.valueproviders.FloatProviderType$$Lambda$2560/0x0000000800b29440",
+	"minecraft:trapezoid": "net.minecraft.util.valueproviders.FloatProviderType$$Lambda$2560/0x0000000800b29440"
 }

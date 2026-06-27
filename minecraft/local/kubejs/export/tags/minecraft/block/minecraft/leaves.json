@@ -1,5 +1,15 @@
 [
 	"#tconstruct:slimy_leaves",
+	"ad_astra:glacian_leaves",
+	"blue_skies:bluebright_leaves",
+	"blue_skies:comet_leaves",
+	"blue_skies:crescent_fruit_leaves",
+	"blue_skies:crystallized_leaves",
+	"blue_skies:dusk_leaves",
+	"blue_skies:frostbright_leaves",
+	"blue_skies:lunar_leaves",
+	"blue_skies:maple_leaves",
+	"blue_skies:starlit_leaves",
 	"minecraft:acacia_leaves",
 	"minecraft:azalea_leaves",
 	"minecraft:birch_leaves",
@@ -9,5 +19,6 @@
 	"minecraft:jungle_leaves",
 	"minecraft:mangrove_leaves",
 	"minecraft:oak_leaves",
-	"minecraft:spruce_leaves"
+	"minecraft:spruce_leaves",
+	"thermal:rubberwood_leaves"
 ]

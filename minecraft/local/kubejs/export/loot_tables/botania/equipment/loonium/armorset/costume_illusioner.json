@@ -1,0 +1,114 @@
+{
+	"type": "minecraft:selector",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Trim:{material:\"minecraft:lapis\",pattern:\"minecraft:vex\"},display:{color:3898306}}"
+						}
+					],
+					"name": "minecraft:leather_helmet"
+				}
+			]
+		},
+		{
+			"name": "pool1",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Trim:{material:\"minecraft:lapis\",pattern:\"minecraft:vex\"},display:{color:3898306}}"
+						}
+					],
+					"name": "minecraft:leather_chestplate"
+				}
+			]
+		},
+		{
+			"name": "pool2",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Trim:{material:\"minecraft:lapis\",pattern:\"minecraft:vex\"},display:{color:3898306}}"
+						}
+					],
+					"name": "minecraft:leather_leggings"
+				}
+			]
+		},
+		{
+			"name": "pool3",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:enchant_randomly",
+							"conditions": [
+								{
+									"condition": "minecraft:random_chance",
+									"chance": 0.3
+								}
+							]
+						}
+					],
+					"name": "minecraft:bow"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.9
+				}
+			]
+		},
+		{
+			"name": "pool4",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomPotionColor:2039587,CustomPotionEffects:[{Ambient:0b,Amplifier:0b,Duration:100,Id:15,ShowIcon:1b,ShowParticles:1b}]}"
+						}
+					],
+					"name": "minecraft:tipped_arrow"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:entity_properties",
+					"predicate": {
+						"type": "minecraft:skeleton"
+					},
+					"entity": "this"
+				},
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.9
+				}
+			]
+		}
+	]
+}

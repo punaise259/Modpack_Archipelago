@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:smelting",
+	"category": "misc",
+	"cookingtime": 200,
+	"experience": 0.9,
+	"group": "ventium_ingot",
+	"ingredient": {
+		"item": "blue_skies:ventium_ore"
+	},
+	"result": "blue_skies:ventium_ingot"
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "blue_skies:blocks/carved_nature_stonebrick",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "blue_skies:carved_nature_stonebrick"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

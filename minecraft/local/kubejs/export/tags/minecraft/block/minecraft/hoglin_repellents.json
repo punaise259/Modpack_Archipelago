@@ -1,4 +1,6 @@
 [
+	"mekanism:quantum_entangloporter",
+	"mekanism:teleporter",
 	"minecraft:nether_portal",
 	"minecraft:potted_warped_fungus",
 	"minecraft:respawn_anchor",

@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "ae2:sky_dust"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "ae2:sky_stone_block"
+	},
+	"energy": 1500,
+	"experience": 0.0,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "ae2",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

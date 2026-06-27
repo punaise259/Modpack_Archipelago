@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ABA",
+		"CDC",
+		" E "
+	],
+	"key": {
+		"A": {
+			"item": "experienceobelisk:cognitive_alloy"
+		},
+		"B": {
+			"item": "experienceobelisk:cognitive_crystal"
+		},
+		"C": {
+			"item": "minecraft:gold_ingot"
+		},
+		"D": {
+			"item": "minecraft:enchanted_book"
+		},
+		"E": {
+			"item": "experienceobelisk:calcarine_matrix"
+		}
+	},
+	"result": {
+		"item": "experienceobelisk:memory_tablet",
+		"count": 1
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"P": {
+			"item": "projectred_core:plate"
+		},
+		"R": {
+			"tag": "forge:dusts/redstone"
+		}
+	},
+	"pattern": [
+		" R ",
+		"RRR",
+		"PPP"
+	],
+	"result": {
+		"count": 3,
+		"item": "projectred_core:anode"
+	}
+}

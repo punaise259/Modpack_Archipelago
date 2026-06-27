@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:nether_quartz_ore"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:quartz"
+	},
+	"energy": 1500,
+	"experience": 0.2,
+	"is_smelting": true
+}

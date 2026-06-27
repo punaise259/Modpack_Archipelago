@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "experienceobelisk:cognitive_flux"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "experienceobelisk:cognitive_amalgam"
+	},
+	"energy": 1500,
+	"experience": 0.175,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "experienceobelisk",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

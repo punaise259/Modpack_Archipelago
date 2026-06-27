@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:smelting",
+	"category": "misc",
+	"cookingtime": 200,
+	"experience": 0.7,
+	"group": "pyrope_gem",
+	"ingredient": {
+		"item": "blue_skies:everdawn_pyrope_ore"
+	},
+	"result": "blue_skies:pyrope_gem"
+}

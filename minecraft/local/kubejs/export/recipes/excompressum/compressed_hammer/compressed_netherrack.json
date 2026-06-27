@@ -1,0 +1,28 @@
+{
+	"type": "excompressum:compressed_hammer",
+	"input": {
+		"item": "excompressum:compressed_netherrack"
+	},
+	"lootTable": {
+		"type": "minecraft:block",
+		"pools": [
+			{
+				"rolls": 1,
+				"entries": [
+					{
+						"type": "minecraft:tag",
+						"name": "excompressum:crushed_netherracks",
+						"expand": true
+					}
+				],
+				"functions": [
+					{
+						"function": "minecraft:set_count",
+						"count": 9
+					}
+				],
+				"conditions": []
+			}
+		]
+	}
+}

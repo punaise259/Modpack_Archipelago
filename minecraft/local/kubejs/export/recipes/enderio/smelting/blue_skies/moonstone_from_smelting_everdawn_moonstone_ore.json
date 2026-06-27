@@ -1,0 +1,23 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "blue_skies:everdawn_moonstone_ore"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "blue_skies:moonstone"
+	},
+	"energy": 1500,
+	"experience": 0.2,
+	"is_smelting": true,
+	"conditions": [
+		{
+			"modid": "blue_skies",
+			"type": "forge:mod_loaded"
+		}
+	]
+}

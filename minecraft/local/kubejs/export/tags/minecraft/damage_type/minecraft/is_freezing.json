@@ -1,5 +1,6 @@
 [
 	"minecraft:freeze",
 	"tconstruct:fluid_cold_melee",
-	"tconstruct:fluid_cold_ranged"
+	"tconstruct:fluid_cold_ranged",
+	"thermal:blizz_projectile"
 ]

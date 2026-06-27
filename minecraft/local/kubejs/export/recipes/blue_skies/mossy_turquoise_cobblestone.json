@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "building",
+	"ingredients": [
+		{
+			"item": "blue_skies:turquoise_cobblestone"
+		},
+		[
+			{
+				"item": "blue_skies:bluebright_vine"
+			},
+			{
+				"item": "blue_skies:starlit_vine"
+			}
+		]
+	],
+	"result": {
+		"item": "blue_skies:mossy_turquoise_cobblestone"
+	}
+}

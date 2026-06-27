@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"item": "blue_skies:sunstone_block"
+		}
+	],
+	"result": {
+		"count": 4,
+		"item": "blue_skies:sunstone_crystal"
+	}
+}

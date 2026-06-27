@@ -3,5 +3,6 @@
 	"minecraft:chest",
 	"minecraft:end_portal_frame",
 	"minecraft:reinforced_deepslate",
-	"minecraft:spawner"
+	"minecraft:spawner",
+	"structure_gel:dynamic_spawner"
 ]

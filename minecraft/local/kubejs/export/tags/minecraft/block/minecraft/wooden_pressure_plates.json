@@ -1,4 +1,14 @@
 [
+	"#libx:impl_wooden_pressure_plates",
+	"ad_astra:glacian_pressure_plate",
+	"blue_skies:bluebright_pressure_plate",
+	"blue_skies:comet_pressure_plate",
+	"blue_skies:dusk_pressure_plate",
+	"blue_skies:frostbright_pressure_plate",
+	"blue_skies:lunar_pressure_plate",
+	"blue_skies:maple_pressure_plate",
+	"blue_skies:starlit_pressure_plate",
+	"enderio:painted_wooden_pressure_plate",
 	"minecraft:acacia_pressure_plate",
 	"minecraft:bamboo_pressure_plate",
 	"minecraft:birch_pressure_plate",
@@ -13,5 +23,6 @@
 	"tconstruct:bloodshroom_pressure_plate",
 	"tconstruct:enderbark_pressure_plate",
 	"tconstruct:greenheart_pressure_plate",
-	"tconstruct:skyroot_pressure_plate"
+	"tconstruct:skyroot_pressure_plate",
+	"thermal:rubberwood_pressure_plate"
 ]

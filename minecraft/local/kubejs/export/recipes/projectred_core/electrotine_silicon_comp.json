@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"E": {
+			"tag": "forge:dusts/electrotine"
+		},
+		"S": {
+			"item": "projectred_core:silicon"
+		}
+	},
+	"pattern": [
+		"EEE",
+		"ESE",
+		"EEE"
+	],
+	"result": {
+		"item": "projectred_core:electrotine_silicon_comp"
+	}
+}

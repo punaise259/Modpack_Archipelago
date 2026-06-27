@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"item": "immersiveengineering:hammer",
+		"count": 1,
+		"nbt": "{Damage:0}"
+	},
+	"pattern": [
+		" IM",
+		" HI",
+		"S  "
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"H": {
+			"item": "exnihilosequentia:diamond_hammer"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		},
+		"M": {
+			"item": "minecraft:string"
+		}
+	}
+}

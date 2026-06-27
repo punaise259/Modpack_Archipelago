@@ -1,0 +1,17 @@
+{
+	"type": "farmersdelight:cooking",
+	"ingredients": [
+		{
+			"item": "exnihilosequentia:copper_pieces"
+		},
+		{
+			"item": "kubejs:acidic_extract"
+		}
+	],
+	"result": {
+		"item": "minecraft:copper_ingot",
+		"count": 1
+	},
+	"experience": 0.5,
+	"cookingtime": 400
+}

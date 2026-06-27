@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"tag": "blue_skies:storage_blocks/moonstone"
+		}
+	],
+	"result": {
+		"count": 9,
+		"item": "blue_skies:moonstone"
+	}
+}

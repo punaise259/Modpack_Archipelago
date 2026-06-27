@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:deepslate_emerald_ore"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:emerald"
+	},
+	"energy": 1500,
+	"experience": 1.0,
+	"is_smelting": true
+}

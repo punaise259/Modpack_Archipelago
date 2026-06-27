@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:chicken"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:cooked_chicken"
+	},
+	"energy": 1500,
+	"experience": 0.35,
+	"is_smelting": true
+}

@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"group": "camel_saddle",
+	"key": {
+		"F": {
+			"item": "blue_skies:fox_pelt"
+		},
+		"I": {
+			"tag": "blue_skies:ingots/ventium"
+		},
+		"L": {
+			"item": "minecraft:leather"
+		}
+	},
+	"pattern": [
+		"LLL",
+		"LIL",
+		"F F"
+	],
+	"result": {
+		"item": "blue_skies:camel_saddle"
+	},
+	"show_notification": true
+}

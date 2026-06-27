@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:quartz_block"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:smooth_quartz"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true
+}

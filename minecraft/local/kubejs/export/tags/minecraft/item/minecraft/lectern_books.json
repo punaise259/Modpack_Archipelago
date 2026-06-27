@@ -1,5 +1,8 @@
 [
 	"#tconstruct:guides",
+	"botania:lexicon",
+	"immersiveengineering:manual",
 	"minecraft:writable_book",
-	"minecraft:written_book"
+	"minecraft:written_book",
+	"patchouli:guide_book"
 ]

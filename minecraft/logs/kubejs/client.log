@@ -1,16 +1,16 @@
-[16:02:12] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
-[16:02:12] [INIT] Loaded plugins:
-[16:02:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:02:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:02:12] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
-[16:02:12] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
-[16:02:12] [INIT] - com.leo.jstages.plugins.item_stages.ItemStagesKJS
-[16:02:12] [INIT] - com.leo.jstages.plugins.redimstages.DimensionStagesKJS
-[16:02:12] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[16:02:12] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[16:02:12] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
-[16:02:12] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
-[16:02:12] [INIT] - novamachina.exnihilosequentia.common.compat.kubejs.KubeJSExNihiloPlugin
-[16:02:12] [INFO] Loaded script client_scripts:hide_jei.js in 0.003 s
-[16:02:12] [INFO] Loaded 1/1 KubeJS client scripts in 0.037 s with 0 errors and 0 warnings
-[16:02:20] [INFO] Client resource reload complete!
+[17:26:31] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[17:26:31] [INIT] Loaded plugins:
+[17:26:31] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:26:31] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[17:26:31] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[17:26:31] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
+[17:26:31] [INIT] - com.leo.jstages.plugins.item_stages.ItemStagesKJS
+[17:26:31] [INIT] - com.leo.jstages.plugins.redimstages.DimensionStagesKJS
+[17:26:31] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[17:26:31] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[17:26:31] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[17:26:31] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[17:26:31] [INIT] - novamachina.exnihilosequentia.common.compat.kubejs.KubeJSExNihiloPlugin
+[17:26:32] [INFO] Loaded script client_scripts:hide_jei.js in 0.002 s
+[17:26:32] [INFO] Loaded 1/1 KubeJS client scripts in 0.034 s with 0 errors and 0 warnings
+[17:26:38] [INFO] Client resource reload complete!

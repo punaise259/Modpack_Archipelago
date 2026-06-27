@@ -1,0 +1,12 @@
+{
+	"type": "experienceobelisk:infecting",
+	"ingredient": {
+		"tag": "forge:bookshelves"
+	},
+	"result": {
+		"item": "experienceobelisk:infected_bookshelf",
+		"count": 1
+	},
+	"infectionCount": 1,
+	"id": "experienceobelisk:infected_bookshelf"
+}

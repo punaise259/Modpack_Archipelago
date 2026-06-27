@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:deepslate_bricks"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:cracked_deepslate_bricks"
+	},
+	"energy": 1500,
+	"experience": 0.1,
+	"is_smelting": true
+}

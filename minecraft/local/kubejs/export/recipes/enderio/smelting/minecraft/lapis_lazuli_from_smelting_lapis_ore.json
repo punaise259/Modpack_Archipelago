@@ -1,0 +1,17 @@
+{
+	"type": "enderio:alloy_smelting",
+	"inputs": [
+		{
+			"ingredient": {
+				"item": "minecraft:lapis_ore"
+			},
+			"count": 1
+		}
+	],
+	"result": {
+		"item": "minecraft:lapis_lazuli"
+	},
+	"energy": 1500,
+	"experience": 0.2,
+	"is_smelting": true
+}

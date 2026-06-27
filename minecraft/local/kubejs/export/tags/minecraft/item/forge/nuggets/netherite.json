@@ -1,3 +1,5 @@
 [
-	"tconstruct:netherite_nugget"
+	"cyclic:netherite_nugget",
+	"tconstruct:netherite_nugget",
+	"thermal:netherite_nugget"
 ]

@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "immersiveengineering:blocks/sawdust",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "immersiveengineering:sawdust"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	],
+	"functions": [
+		{
+			"function": "immersiveengineering:property_count",
+			"propery_name": "layers"
+		}
+	]
+}
