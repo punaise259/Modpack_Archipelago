@@ -1,12 +1,8 @@
 // kubejs/server_scripts/craft.js
-//
-// Note : les recettes des sieves Ex Nihilo Sequentia (4 planches + 2 paille)
-// sont definies en datapack dans kubejs/data/exnihilosequentia/recipes/.
-// Ce fichier ne contient plus que la recette du cooking_pot.
 
 ServerEvents.recipes(event => {
 
-    //Vinilla
+    //Vanilla
     //bucket
     event.remove({ output: 'minecraft:bucket' })
 
@@ -156,11 +152,6 @@ ServerEvents.recipes(event => {
 
     iePlates.forEach(p => {
         event.remove({ output: p.plate, type: 'minecraft:crafting_shapeless' })
-        event.shapeless(p.plate, [
-            `#${p.tag}`,
-            `#${p.tag}`,
-            'immersiveengineering:hammer'
-        ])
     })
 
     event.remove({ output: 'immersiveengineering:hammer' })
@@ -174,10 +165,27 @@ ServerEvents.recipes(event => {
         I: 'minecraft:iron_ingot',
         H: 'exnihilosequentia:diamond_hammer',
         S: 'minecraft:stick',
-        M: 'minecraft:string'
+        M: 'immersiveengineering:hemp_fiber'
 
 
     })
+
+    //engineer crafting table
+    event.remove({ output: 'immersiveengineering:craftingtable' })
+
+    event.shaped('immersiveengineering:craftingtable', [
+        'SAS',
+        'HIH',
+        'H H'
+    ], {  
+        I: 'minecraft:crafting_table',
+        H: 'immersiveengineering:stick_treated',
+        S: 'immersiveengineering:slab_treated_wood_horizontal',
+        A: 'kubejs:dark_anvil',
+})
+
+    //LV accumulator
+
 
     // botania
     // compressed Bone Meal

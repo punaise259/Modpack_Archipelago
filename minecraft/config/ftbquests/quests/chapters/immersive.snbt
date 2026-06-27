@@ -35,10 +35,11 @@
 					type: "item"
 				}
 			]
-			x: -4.5d
+			x: -7.5d
 			y: 0.5d
 		}
 		{
+			dependencies: ["6DA37B1153D1B5A1"]
 			icon: "immersiveengineering:coke_oven"
 			id: "7B85E32E6F8D3420"
 			tasks: [{
@@ -52,6 +53,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["6DA37B1153D1B5A1"]
 			icon: "immersiveengineering:blast_furnace"
 			id: "05B01B80A2F2ED79"
 			tasks: [{
@@ -65,6 +67,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["6DA37B1153D1B5A1"]
 			icon: "immersiveengineering:alloybrick"
 			id: "4B999BDDCB054E9D"
 			tasks: [{
@@ -98,14 +101,15 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["4B999BDDCB054E9D"]
 			id: "48149953AF756F27"
 			tasks: [{
 				id: "46C042A6A404032B"
 				item: "immersiveengineering:workbench"
 				type: "item"
 			}]
-			x: -4.5d
-			y: -1.0d
+			x: -6.5d
+			y: 2.0d
 		}
 		{
 			icon: "immersiveengineering:metal_press"
@@ -179,8 +183,8 @@
 				}
 			]
 			title: "Crusher"
-			x: -0.5d
-			y: 3.5d
+			x: 6.0d
+			y: 8.5d
 		}
 		{
 			icon: "excompressum:auto_heavy_sieve"
@@ -197,8 +201,8 @@
 					type: "item"
 				}
 			]
-			x: 1.0d
-			y: 3.5d
+			x: 7.5d
+			y: 8.5d
 		}
 		{
 			icon: "immersiveengineering:squeezer"
@@ -246,8 +250,8 @@
 				}
 			]
 			title: "Industrial Squeezer"
-			x: -2.5d
-			y: 3.5d
+			x: 4.0d
+			y: 8.5d
 		}
 		{
 			icon: "immersiveengineering:fermenter"
@@ -494,6 +498,37 @@
 			title: "Arc Furnace"
 			x: -3.5d
 			y: 6.0d
+		}
+		{
+			dependencies: ["7E8211F8F55BD1C8"]
+			id: "6DA37B1153D1B5A1"
+			size: 2.0d
+			tasks: [{
+				id: "67A5D022F9E32027"
+				item: {
+					Count: 1
+					id: "immersiveengineering:hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.535714285714292d
+			y: 0.49999999999999645d
+		}
+		{
+			dependencies: ["05B01B80A2F2ED79"]
+			dependency_requirement: "one_completed"
+			id: "7CEBE412943A684E"
+			tasks: [{
+				count: 12L
+				id: "56DBC22D3ADC85DD"
+				item: { Count: 12, id: "immersiveengineering:ingot_steel" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.5d
 		}
 	]
 	title: "Immersive + AE2"

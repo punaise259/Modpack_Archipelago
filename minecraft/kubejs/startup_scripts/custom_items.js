@@ -28,4 +28,11 @@ StartupEvents.registry('item', event => {
     event.create('5x_compressed_bone_meal')
         .displayName('5x Compressed Bone Meal')
         .texture('kubejs:item/5x_compressed_bone_meal');
+
+    // Dark Anvil
+    event.create('dark_anvil')
+        .displayName('Dark Anvil')
+        .tooltip('crafting component')
+        .texture('kubejs:item/dark_anvil')
+        .maxStackSize(16);
 });

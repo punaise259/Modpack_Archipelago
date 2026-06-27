@@ -1,4 +1,6 @@
 #52B53D minecraft:air
+#384494 immersiveengineering:alloy_smelter
+#D0995E immersiveengineering:alloybrick
 #189B99 minecraft:barrel
 #7F50F6 minecraft:bell
 #DD8B63 bonsaitrees3:bonsaipot

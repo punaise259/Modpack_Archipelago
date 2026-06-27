@@ -1,0 +1,14 @@
+{
+    "type": "immersiveengineering:alloy",
+    "input0": {
+        "tag": "forge:ingots/steel"
+    },
+    "input1": {
+        "item": "minecraft:anvil"
+    },
+    "result": {
+        "item": "kubejs:dark_anvil",
+        "count": 1
+    },
+    "time": 200
+}
