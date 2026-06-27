@@ -1,0 +1,38 @@
+
+#Display Settings
+[display]
+	#Show lock icon on locked items/outputs
+	showLockIcon = true
+	#Highlight locked recipe outputs with a colored overlay
+	highlightLockedOutput = true
+	#Size of the lock icon in pixels (6-16)
+	#Range: 6 ~ 16
+	iconSize = 8
+	#Padding from the edge of the slot for the lock icon
+	#Range: 0 ~ 4
+	iconPadding = 1
+	#Show lock icon on items in EMI search/item list panels
+	showLockOnItemList = true
+	#Color for the locked output highlight (ARGB hex, e.g., 0x50FFAA40 for semi-transparent light orange)
+	#Range: > -2147483648
+	highlightColor = 1358932544
+	#Show locked stage information in item tooltips when hovering
+	showTooltipInfo = true
+	#If true, attempt to prevent JEI (and JEI-based plugins) from hiding locked recipes/ingredients; EMI will re-add missing ingredients on stage sync.
+	showLockedRecipes = true
+
+#Integration Settings - Automatic detection from other mods
+[integration]
+	#Enable automatic integration with ItemStages mod (detects item restrictions automatically)
+	enableItemStages = true
+	#Enable automatic integration with RecipeStages mod (detects recipe restrictions automatically)
+	enableRecipeStages = true
+
+#Manual Item Locks - Format: 'item_id=stage_name' (e.g., 'minecraft:diamond_pickaxe=diamond_age')
+#These are checked AFTER automatic integrations, useful for custom locks
+[locks]
+	#List of item locks in format 'modid:item_id=stage_name'
+	items = []
+	#List of tag locks in format '#modid:tag=stage_name' (e.g., '#forge:ingots/steel=steel_age')
+	tags = []
+

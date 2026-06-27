@@ -1,0 +1,11 @@
+[
+	"minecraft:bad_respawn_point",
+	"minecraft:explosion",
+	"minecraft:fireworks",
+	"minecraft:player_explosion",
+	"tconstruct:explosion_melee",
+	"tconstruct:explosion_ranged",
+	"tconstruct:mob_explosion_melee",
+	"tconstruct:mob_explosion_ranged",
+	"tconstruct:self_destruct"
+]

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "item": "minecraft:spruce_planks" },
+    "S": { "item": "farmersdelight:straw" }
+  },
+  "pattern": [
+    "P P",
+    "P P",
+    "S S"
+  ],
+  "result": {
+    "item": "exnihilosequentia:spruce_sieve"
+  },
+  "show_notification": true
+}

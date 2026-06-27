@@ -1,0 +1,145 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farming_mobs"
+	group: "1F8FF8A2D00EE09C"
+	icon: "minecraft:creeper_head"
+	id: "28ECEC4FC480A609"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1F7E5F9200AF989E"
+			tasks: [{
+				id: "00F4E0E9D2B4B5B6"
+				item: "mob_grinding_utils:spikes"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "29B097E6C8640B6B"
+			tasks: [{
+				id: "0B0345E7B8EDB916"
+				item: "mob_grinding_utils:fan"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "28DBA3DFC71DF13A"
+			tasks: [{
+				id: "0A6E60B0C92F2226"
+				item: "mob_grinding_utils:saw"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "3C4BD5533C0EAE61"
+			tasks: [{
+				id: "09B44C6CBE8A92E3"
+				points: false
+				type: "xp"
+				value: 500L
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "3B5EFAEFBB9C8786"
+			tasks: [{
+				count: 32L
+				id: "44677B7853670C5A"
+				item: { Count: 32, id: "enderio:clear_glass_ep_black" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "1FF3943F93695800"
+			tasks: [{
+				count: 5L
+				id: "338B51241AAC7F07"
+				item: { Count: 5, id: "mob_grinding_utils:saw_upgrade_looting" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "2968311A898C79D3"
+			tasks: [{
+				count: 5L
+				id: "7923C114C3775D81"
+				item: { Count: 5, id: "mob_grinding_utils:saw_upgrade_sharpness" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			id: "3B03F685D445ACE6"
+			tasks: [{
+				id: "254AA8014A938FB3"
+				item: "minecraft:wither_rose"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "3E69310D9CC30CC4"
+			tasks: [{
+				id: "7A9811D4F0FBA7E0"
+				item: "minecraft:wither_skeleton_skull"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			id: "52EFEE697A2C9DF4"
+			tasks: [{
+				id: "2F0D757191EED487"
+				item: "mob_grinding_utils:absorption_hopper"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "5FE4C2F9695DF1FA"
+			tasks: [{
+				id: "747072901AA023BC"
+				item: {
+					Count: 1
+					id: "enderio:powered_spawner"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			id: "7B39051DD1EF7094"
+			tasks: [{
+				id: "3782FC04AF1CE62E"
+				item: {
+					Count: 1
+					id: "experienceobelisk:experience_obelisk"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+	]
+	title: "Farming... mobs ?"
+}

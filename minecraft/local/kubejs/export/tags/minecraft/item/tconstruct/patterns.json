@@ -1,0 +1,9 @@
+[
+	"#tconstruct:casts/red_sand",
+	"#tconstruct:casts/sand",
+	"#tconstruct:patterns/default",
+	"#tconstruct:patterns/reusable",
+	"minecraft:red_sand",
+	"minecraft:sand",
+	"tconstruct:venom_bottle"
+]

@@ -1,0 +1,8 @@
+[
+	"#tconstruct:harvestable/crops",
+	"#tconstruct:harvestable/interact",
+	"#tconstruct:harvestable/stackable",
+	"minecraft:bee_nest",
+	"minecraft:beehive",
+	"minecraft:pumpkin"
+]

@@ -1,0 +1,382 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ender_io"
+	group: "51F38BA4F5730D22"
+	icon: {
+		Count: 1
+		id: "thermal:wrench"
+		tag: { }
+	}
+	id: "3222B3109B58C8AC"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5519BD5DB0766940"
+			tasks: [{
+				id: "0D3CF949780E57F6"
+				item: "enderio:grains_of_infinity"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			id: "49D0B28240CE1DCB"
+			tasks: [{
+				id: "04FE8E6CACB28FDE"
+				item: "thermal:machine_frame"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -0.5d
+		}
+		{
+			id: "583300849A9A9862"
+			tasks: [{
+				id: "6F7C08499DD14994"
+				item: {
+					Count: 1
+					id: "simplyjetpacks:jetpack_potato"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			id: "60713EAD4AF21044"
+			tasks: [{
+				id: "766622720CF959FA"
+				item: {
+					Count: 1
+					id: "simplyjetpacks:jetpack_te1_armored"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			id: "11BD50D0F5D03EAB"
+			tasks: [{
+				id: "64A523F9A126318E"
+				item: {
+					Count: 1
+					id: "simplyjetpacks:jetpack_te2_armored"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			id: "0E4BFCB020788464"
+			tasks: [{
+				id: "1972A0B827FA4531"
+				item: {
+					Count: 1
+					id: "simplyjetpacks:jetpack_te3_armored"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "3191E8A60F0FAC5C"
+			tasks: [{
+				id: "13314225F81F035B"
+				item: {
+					Count: 1
+					id: "simplyjetpacks:jetpack_te4_armored"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "2156D29CAB5676A9"
+			tasks: [{
+				id: "42EB0A4C781FDA7B"
+				item: {
+					Count: 1
+					id: "simplyjetpacks:jetpack_te5"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "402DEC1DD40D522E"
+			tasks: [{
+				id: "76F1056A3EE912EB"
+				item: "enderio:void_chassis"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "4C31C177D1FA968D"
+			size: 2.0d
+			tasks: [{
+				id: "2831E01D4BC2AE92"
+				item: "enderio:primitive_alloy_smelter"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			id: "25DE553B7BB25B8A"
+			tasks: [{
+				id: "6B5B438DDAE41C44"
+				item: "enderio:sag_mill"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			id: "681BBC749A4355CC"
+			tasks: [{
+				id: "0D04653F3287E3DD"
+				item: "enderio:alloy_smelter"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			id: "0C1B75CE8BC7CC60"
+			tasks: [{
+				id: "431581B968CC5F71"
+				item: "enderio:slice_and_splice"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			id: "1C49963A35076F49"
+			tasks: [{
+				id: "18F3F200136862A2"
+				item: "enderio:soul_binder"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			id: "52AFD983DD736C95"
+			tasks: [{
+				id: "62025F222E2768ED"
+				item: "enderio:crafter"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "12F6F55E761BA820"
+			tasks: [{
+				id: "22F81EAC77CED343"
+				item: "enderio:wired_charger"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			id: "3D8B4DFFA92D37CB"
+			tasks: [{
+				id: "7E99098202C3B706"
+				item: "enderio:basic_capacitor"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			id: "75CDA3B2C472D4EC"
+			tasks: [{
+				id: "458BB8FC4D8F18CF"
+				item: "enderio:double_layer_capacitor"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			id: "36980EF8FE6443CB"
+			tasks: [{
+				id: "3FB2595DC31DA4E7"
+				item: "enderio:octadic_capacitor"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			id: "43F89A17D4965F9E"
+			tasks: [{
+				id: "380587FE8DEA0DA4"
+				item: "enderio:energetic_photovoltaic_module"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			id: "05808B44A484A6CB"
+			tasks: [{
+				id: "5C5F581830A2D006"
+				item: "enderio:pulsating_photovoltaic_module"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			id: "32457A61F8D7B488"
+			tasks: [{
+				id: "600390D329F7E15F"
+				item: "enderio:vibrant_photovoltaic_module"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 4.0d
+		}
+		{
+			id: "4E54BFC317181ACC"
+			tasks: [{
+				id: "1ED6122D23F686C3"
+				item: "wirelesschargers:basic_wireless_player_charger"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			id: "4C9679823AD14364"
+			tasks: [{
+				id: "567BD78098473AFC"
+				item: "wirelesschargers:advanced_wireless_player_charger"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "161FC42E9731C2BB"
+			tasks: [{
+				id: "0B4F4C3C305B7706"
+				item: "enderio:ensouled_chassis"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "3672AE96FFC3D92F"
+			tasks: [{
+				id: "14696670A92F2DCC"
+				item: "thermal:machine_crucible"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			id: "52087A80DAAA8C29"
+			tasks: [{
+				id: "0CCC54AF0749F9C8"
+				item: "thermal:machine_sawmill"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			id: "2033B7EFFDDFDC7A"
+			tasks: [{
+				id: "3983BDBF3C82E163"
+				item: "thermal:machine_bottler"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			id: "59AE504EED827D81"
+			tasks: [{
+				id: "067B2A38E8B2DFBE"
+				item: "thermal:machine_pulverizer"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.5d
+		}
+		{
+			id: "1A8437734B8120F2"
+			tasks: [{
+				id: "604AE46CB3F34FAE"
+				item: "thermal:machine_smelter"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			id: "0017DF11587ADC6F"
+			tasks: [{
+				id: "298D4C827B7FF3A5"
+				item: "thermal:machine_furnace"
+				type: "item"
+			}]
+			x: 11.5d
+			y: -1.5d
+		}
+		{
+			id: "3457B7BFD4271FBE"
+			tasks: [{
+				id: "06F2E62232136224"
+				item: "thermal:machine_pyrolyzer"
+				type: "item"
+			}]
+			x: 11.5d
+			y: -0.5d
+		}
+		{
+			id: "1675FD4D43B1C81B"
+			tasks: [{
+				id: "03F416B04B048FDB"
+				item: "thermal:machine_chiller"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 0.5d
+		}
+		{
+			id: "461CA2B66DCDF295"
+			tasks: [{
+				id: "7EDEC6D508E15B85"
+				item: "enderio:enchanter"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+	]
+	title: "Ender IO + Thermal"
+}

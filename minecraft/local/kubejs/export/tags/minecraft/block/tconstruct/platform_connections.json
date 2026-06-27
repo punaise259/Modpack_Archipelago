@@ -1,0 +1,16 @@
+[
+	"#forge:fences",
+	"#forge:glass_panes",
+	"#minecraft:buttons",
+	"#minecraft:wall_signs",
+	"#minecraft:walls",
+	"minecraft:iron_bars",
+	"minecraft:ladder",
+	"minecraft:lever",
+	"minecraft:redstone_wall_torch",
+	"minecraft:redstone_wire",
+	"minecraft:soul_wall_torch",
+	"minecraft:tripwire_hook",
+	"minecraft:wall_torch",
+	"tconstruct:gold_bars"
+]

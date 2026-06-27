@@ -1,0 +1,21 @@
+filename = 'SpikySpikes-v8.0.3-1.20.1-Forge.jar'
+name = 'Spiky Spikes'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v8.0.3-1.20.1-Forge'
+
+[download]
+hash = '8f825cdd2cd7342018d160a3705bd8ace673dc743f125ed956b8d718f8254db9cc88489764f81ab65c94e43f73a3d136cd45bd8d19a4ae8726957760b6701ee4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DUaLBLVL/versions/C73pXlBE/SpikySpikes-v8.0.3-1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'DUaLBLVL'
+version = 'C73pXlBE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'QAGBst4M'
+type = 'REQUIRED'

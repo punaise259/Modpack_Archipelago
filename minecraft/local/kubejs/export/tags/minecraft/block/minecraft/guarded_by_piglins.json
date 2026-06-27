@@ -1,0 +1,14 @@
+[
+	"#minecraft:gold_ores",
+	"#minecraft:shulker_boxes",
+	"minecraft:barrel",
+	"minecraft:chest",
+	"minecraft:ender_chest",
+	"minecraft:gilded_blackstone",
+	"minecraft:gold_block",
+	"minecraft:raw_gold_block",
+	"minecraft:trapped_chest",
+	"tconstruct:cast_chest",
+	"tconstruct:gold_bars",
+	"tconstruct:gold_platform"
+]

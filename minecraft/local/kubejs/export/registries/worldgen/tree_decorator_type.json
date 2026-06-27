@@ -1,0 +1,9 @@
+{
+	"minecraft:trunk_vine": "net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType",
+	"minecraft:leave_vine": "net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType",
+	"minecraft:cocoa": "net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType",
+	"minecraft:beehive": "net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType",
+	"minecraft:alter_ground": "net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType",
+	"minecraft:attached_to_leaves": "net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType",
+	"tconstruct:leave_vines": "net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType"
+}

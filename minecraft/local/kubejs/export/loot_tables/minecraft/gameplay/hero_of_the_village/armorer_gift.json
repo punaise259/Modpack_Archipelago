@@ -1,0 +1,46 @@
+{
+	"type": "minecraft:gift",
+	"random_sequence": "minecraft:gameplay/hero_of_the_village/armorer_gift",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:chainmail_helmet"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:chainmail_chestplate"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:chainmail_leggings"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:chainmail_boots"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "tconstruct:add_tool_data",
+							"materials": [
+								{
+									"type": "tconstruct:ancient"
+								},
+								{
+									"type": "tconstruct:ancient"
+								}
+							]
+						}
+					],
+					"name": "tconstruct:melting_pan"
+				}
+			]
+		}
+	]
+}

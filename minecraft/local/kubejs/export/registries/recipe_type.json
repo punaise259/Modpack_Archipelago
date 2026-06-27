@@ -1,0 +1,23 @@
+{
+	"minecraft:crafting": "net.minecraft.world.item.crafting.RecipeType$1",
+	"minecraft:smelting": "net.minecraft.world.item.crafting.RecipeType$1",
+	"minecraft:blasting": "net.minecraft.world.item.crafting.RecipeType$1",
+	"minecraft:smoking": "net.minecraft.world.item.crafting.RecipeType$1",
+	"minecraft:campfire_cooking": "net.minecraft.world.item.crafting.RecipeType$1",
+	"minecraft:stonecutting": "net.minecraft.world.item.crafting.RecipeType$1",
+	"minecraft:smithing": "net.minecraft.world.item.crafting.RecipeType$1",
+	"tconstruct:part_builder": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:material": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:tinker_station": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:modifier_worktable": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:casting_basin": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:casting_table": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:molding_table": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:molding_basin": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:melting": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:entity_melting": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:fuel": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:alloying": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:severing": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1",
+	"tconstruct:data": "slimeknights.tconstruct.library.recipe.TinkerRecipeTypes$1"
+}

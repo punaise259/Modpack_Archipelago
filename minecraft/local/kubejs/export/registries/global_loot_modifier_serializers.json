@@ -1,0 +1,5 @@
+{
+	"tconstruct:modifier_hook": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"mantle:add_entry": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"mantle:replace_item": "com.mojang.serialization.MapCodec$MapCodecCodec"
+}

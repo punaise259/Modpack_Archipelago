@@ -1,0 +1,402 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "real_farming"
+	group: "1F8FF8A2D00EE09C"
+	icon: {
+		Count: 1
+		id: "farmersdelight:skillet"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "5CA2401AAE9C02BE"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "immersivecooking:cookpot"
+			id: "3C614101C1E758D1"
+			tasks: [
+				{
+					count: 3L
+					id: "6DD9F170A7CC460A"
+					item: { Count: 3, id: "immersiveengineering:coil_lv" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "5D8BA672753A5B3B"
+					item: { Count: 2, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "297929D4D9D4B482"
+					item: { Count: 3, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "5EDDD4B8B89E10AB"
+					item: { Count: 5, id: "minecraft:cauldron" }
+					type: "item"
+				}
+				{
+					id: "44B40B7C0D62E848"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5C8B4BC13610C744"
+					item: { Count: 4, id: "immersiveengineering:slab_treated_wood_vertical" }
+					type: "item"
+				}
+				{
+					id: "66C4095AC0412E0D"
+					item: { Count: 3, id: "immersiveengineering:furnace_heater" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6CB076D86646C8A3"
+					item: { Count: 2, id: "immersiveengineering:fluid_pipe" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			icon: "immersivecooking:food_fermenter"
+			id: "3719BC31C46B54F5"
+			tasks: [
+				{
+					count: 2L
+					id: "66E1903330FDC859"
+					item: { Count: 2, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					id: "15A26284E5B21950"
+					item: "immersiveengineering:radiator"
+					type: "item"
+				}
+				{
+					id: "1573DC1FCDB68229"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					id: "2423C1E69748C307"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "7B4C6C8143AD9EFB"
+					item: { Count: 5, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "3011862B7ED3F01A"
+					item: { Count: 3, id: "immersiveengineering:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "5C3B44EF1F52C4A3"
+					item: { Count: 8, id: "immersiveengineering:wooden_barrel" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			icon: "immersivecooking:grill_oven"
+			id: "1DA86962236FA4DA"
+			tasks: [{
+				count: 27L
+				id: "1CE245284DEF3EAA"
+				item: { Count: 27, id: "immersiveengineering:concrete_brick" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			id: "0C1A7515D9CF848F"
+			tasks: [{
+				id: "065FAEFE01390C81"
+				item: "immersiveengineering:cloche"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "40C5DC221BF3B78A"
+			tasks: [{
+				id: "1175B727D3AE26F5"
+				item: "farmersdelight:squid_ink_pasta"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			id: "52CCC9BFBE40DF82"
+			tasks: [{
+				id: "001C4971DCA82304"
+				item: "farmersdelight:ratatouille"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			id: "20E0614BD7E6F098"
+			tasks: [{
+				id: "55DC755D203B49D5"
+				item: "farmersdelight:roast_chicken_block"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			id: "78A227918791ECC3"
+			tasks: [{
+				id: "01DEB69C9DEE0054"
+				item: "farmersdelight:stuffed_pumpkin_block"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			id: "0045B66C9BA911C4"
+			tasks: [{
+				id: "2BEA7F1677AC5B86"
+				item: "farmersdelight:vegetable_noodles"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "314D7C6A38C20B1A"
+			tasks: [{
+				id: "563EFC677143A463"
+				item: "farmersdelight:honey_glazed_ham_block"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			id: "00206C39CB2497D9"
+			tasks: [{
+				id: "604EBBF13B571B62"
+				item: "farmersdelight:egg_sandwich"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "7A545229B93C6A74"
+			tasks: [{
+				id: "0EB11A6960F0BC96"
+				item: "farmersdelight:chicken_sandwich"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "795260CCB6DAB81E"
+			tasks: [{
+				id: "0446EE4A3FA718AF"
+				item: "farmersdelight:hamburger"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			id: "29B2628E7A30AEDA"
+			tasks: [{
+				id: "4225DCD034E9138C"
+				item: "farmersdelight:mutton_wrap"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			id: "2BE0E05CA4C16045"
+			tasks: [{
+				id: "50E6B8018E73E359"
+				item: "farmersdelight:glow_berry_custard"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "4689E701CAE73DEF"
+			tasks: [{
+				id: "5EF94C32A9F321CC"
+				item: "blue_skies:comet_berry_pie"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			id: "6E97C0607E86AB47"
+			tasks: [{
+				id: "5339AFA1393FEE28"
+				item: "farmersdelight:apple_pie"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "46599AA85EE6E3BB"
+			tasks: [{
+				id: "38D90656E7A7049C"
+				item: "farmersdelight:chocolate_pie"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			id: "5EBCCF3A7A5DAB09"
+			tasks: [{
+				id: "241ED041BAB44323"
+				item: "farmersdelight:shepherds_pie_block"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			id: "1EEA05FDE4FC1755"
+			tasks: [{
+				id: "0E2BB1397AA939EA"
+				item: "minecraft:pumpkin_pie"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "5D50662EFA550D93"
+			tasks: [{
+				id: "0F5A9412FD13B9D9"
+				item: "farmersdelight:rice_roll_medley_block"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			id: "3F4AD18EC1CD05FE"
+			tasks: [{
+				id: "5160FBA90248A865"
+				item: "farmersdelight:melon_popsicle"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "6B1C3A28CAD20CF8"
+			tasks: [{
+				id: "4A2ECD1475971B1D"
+				item: "farmersdelight:sweet_berry_cheesecake"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "6CDCF7F73305001B"
+			tasks: [{
+				id: "67B7BE6DFBD0950E"
+				item: "farmersdelight:honey_cookie"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "67ED15E96996A691"
+			tasks: [{
+				id: "77C3F80A08EE8BBB"
+				item: "farmersdelight:nether_salad"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "3E59A5DD5312D0A8"
+			tasks: [{
+				id: "6DA03EAD41BCD38D"
+				item: "farmersdelight:fruit_salad"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "4ED7BF7CBC8AC088"
+			tasks: [{
+				id: "3091D81C93DD1F61"
+				item: "farmersdelight:mixed_salad"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "3DCD7763857E4C08"
+			tasks: [{
+				id: "0C8074E1A86B4552"
+				item: "farmersdelight:gleaming_salad"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "51C8CC237DDBA6F5"
+			tasks: [{
+				id: "6F058673468862AC"
+				item: "farmersdelight:mushroom_rice"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			id: "58A86BC9AF1109FA"
+			tasks: [{
+				id: "4D5A3E0AF82CB85A"
+				item: "cyclic:harvester"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+	]
+	title: "Overcooking"
+}

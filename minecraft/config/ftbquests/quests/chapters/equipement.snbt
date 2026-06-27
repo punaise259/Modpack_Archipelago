@@ -1,0 +1,158 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "equipement"
+	group: "1AC1076EBFF2909A"
+	icon: "minecraft:anvil"
+	id: "0E9DD99620C41DA6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4665391D41397920"
+			tasks: [
+				{
+					id: "34ED8618DF93E7ED"
+					item: "tconstruct:tinker_station"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "44DBBF08301E9B57"
+					item: { Count: 4, id: "tconstruct:pattern" }
+					type: "item"
+				}
+				{
+					id: "2777B42F5DFAA431"
+					item: "tconstruct:part_builder"
+					type: "item"
+				}
+				{
+					id: "57887C1568B8099D"
+					item: "tconstruct:part_chest"
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "45DAA757907BDFE9"
+			tasks: [
+				{
+					id: "0B05AEA100D3536A"
+					item: "tconstruct:smeltery_controller"
+					type: "item"
+				}
+				{
+					id: "0B0C6B295CBF69CB"
+					item: "tconstruct:seared_fuel_tank"
+					type: "item"
+				}
+				{
+					id: "52D2ED8096054E5D"
+					item: "tconstruct:seared_faucet"
+					type: "item"
+				}
+				{
+					id: "26FE7184567CAB19"
+					item: "tconstruct:seared_drain"
+					type: "item"
+				}
+				{
+					id: "5270D77957461504"
+					item: "tconstruct:seared_table"
+					type: "item"
+				}
+				{
+					id: "087D968A2DCA4E02"
+					item: "tconstruct:seared_basin"
+					type: "item"
+				}
+				{
+					id: "1F858085E9D32A1F"
+					item: "projectred_integration:timer_gate"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "58CCECA06B102EF9"
+			tasks: [{
+				id: "3DEA7AD0B4218DCF"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			id: "2548E9984190E252"
+			tasks: [{
+				id: "7BD21E9769FC04C9"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_chestplate"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_modifiers: [
+							{
+								level: 1
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1
+								name: "tconstruct:wings"
+							}
+						]
+						tic_multipliers: {
+							"tconstruct:attack_damage": 0.4f
+						}
+						tic_persistent: { }
+						tic_stats: {
+							"tconstruct:durability": 672.0f
+						}
+						tic_volatile_data: {
+							abilities: 1
+							"tconstruct:elyta": 1b
+							upgrades: 5
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			id: "29747E8ED3CCDC9E"
+			tasks: [{
+				id: "31443DEEF4CD7727"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			id: "51F5CA700A56F872"
+			tasks: [{
+				id: "5DD12566B52C2010"
+				item: "blue_skies:snowcap_oven"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+	]
+	title: "Equipement"
+}

@@ -1,0 +1,11 @@
+[
+	"minecraft:fireball",
+	"minecraft:hot_floor",
+	"minecraft:in_fire",
+	"minecraft:lava",
+	"minecraft:on_fire",
+	"minecraft:unattributed_fireball",
+	"tconstruct:fluid_fire_melee",
+	"tconstruct:fluid_fire_ranged",
+	"tconstruct:smeltery_heat"
+]

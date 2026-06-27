@@ -1,0 +1,5 @@
+{
+	"minecraft:overworld": "net.minecraft.world.level.dimension.LevelStem",
+	"minecraft:the_end": "net.minecraft.world.level.dimension.LevelStem",
+	"minecraft:the_nether": "net.minecraft.world.level.dimension.LevelStem"
+}

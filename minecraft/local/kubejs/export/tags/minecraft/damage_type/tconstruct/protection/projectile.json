@@ -1,0 +1,7 @@
+[
+	"#minecraft:is_projectile",
+	"minecraft:falling_anvil",
+	"minecraft:falling_block",
+	"minecraft:falling_stalactite",
+	"twilightforest:falling_ice?"
+]

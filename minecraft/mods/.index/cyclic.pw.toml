@@ -1,0 +1,21 @@
+filename = 'Cyclic-1.20.1-1.13.7.jar'
+name = 'Cyclic'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Cyclic-1.20.1-1.13.7.jar'
+
+[download]
+hash = 'f5e2a09fea3345f0bd891b613452d6ccb64b9865'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8089280
+project-id = 239286
+
+[[x-prismlauncher-dependencies]]
+addonId = '661261'
+type = 'REQUIRED'

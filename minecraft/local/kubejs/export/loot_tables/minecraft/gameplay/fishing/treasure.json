@@ -1,0 +1,103 @@
+{
+	"type": "minecraft:fishing",
+	"random_sequence": "minecraft:gameplay/fishing/treasure",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:name_tag"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:saddle"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_damage",
+							"damage": {
+								"type": "minecraft:uniform",
+								"min": 0.0,
+								"max": 0.25
+							},
+							"add": false
+						},
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": 30.0,
+							"treasure": true
+						}
+					],
+					"name": "minecraft:bow"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_damage",
+							"damage": {
+								"type": "minecraft:uniform",
+								"min": 0.0,
+								"max": 0.25
+							},
+							"add": false
+						},
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": 30.0,
+							"treasure": true
+						}
+					],
+					"name": "minecraft:fishing_rod"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": 30.0,
+							"treasure": true
+						}
+					],
+					"name": "minecraft:book"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:nautilus_shell"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "tconstruct:add_tool_data",
+							"materials": [
+								{
+									"type": "tconstruct:ancient"
+								},
+								{
+									"type": "tconstruct:ancient"
+								},
+								{
+									"type": "tconstruct:ancient"
+								}
+							]
+						},
+						{
+							"function": "mantle:set_fluid",
+							"fluid": {
+								"fluid": "minecraft:lava",
+								"amount": 1000
+							}
+						}
+					],
+					"name": "tconstruct:swasher"
+				}
+			]
+		}
+	]
+}

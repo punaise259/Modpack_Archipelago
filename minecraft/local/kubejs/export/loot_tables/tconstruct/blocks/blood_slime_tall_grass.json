@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "tconstruct:blocks/blood_slime_tall_grass",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "tconstruct:blood_slime_tall_grass"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "forge:can_tool_perform_action",
+					"action": "shears_dig"
+				}
+			]
+		}
+	]
+}

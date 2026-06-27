@@ -1,0 +1,11 @@
+[
+	"#tconstruct:modifiable/ammo",
+	"#tconstruct:modifiable/aoe",
+	"#tconstruct:modifiable/bonus_slots",
+	"#tconstruct:modifiable/durability",
+	"#tconstruct:modifiable/harvest",
+	"#tconstruct:modifiable/held",
+	"#tconstruct:modifiable/melee",
+	"#tconstruct:modifiable/multipart",
+	"#tconstruct:modifiable/ranged"
+]

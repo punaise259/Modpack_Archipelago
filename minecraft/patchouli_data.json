@@ -1,0 +1,29 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "bonsaitrees3:book_of_trees": {
+      "viewedEntries": [
+        "bonsaitrees3:minecraft/acacia"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:generating_flowers/dandelifeon",
+        "botania:generating_flowers/entropinnyum",
+        "botania:generating_flowers/kekimurus"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ad_astra:astrodux": {
+      "viewedEntries": [
+        "ad_astra:the_first_launch/preparing_to_launch"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

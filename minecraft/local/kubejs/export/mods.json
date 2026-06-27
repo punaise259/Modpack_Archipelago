@@ -1,0 +1,272 @@
+[
+	{
+		"id": "tconstruct",
+		"name": "Tinkers' Construct",
+		"version": "3.11.2.166",
+		"description": "A little of this, a little of that, a lot of tinkering, and a lot of tools",
+		"authors": "Slime Knights",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/tinkers-construct",
+		"issue_tracker": "https://github.com/SlimeKnights/TinkersConstruct/issues",
+		"license": "MIT"
+	},
+	{
+		"id": "minecraft",
+		"name": "Minecraft",
+		"version": "1.20.1",
+		"description": "Minecraft, decompiled and deobfuscated with MCP technology",
+		"authors": "MCP: Searge,ProfMobius,IngisKahn,Fesh0r,ZeuX,R4wk,LexManos,Bspkrs",
+		"license": "Mojang Studios, All Rights Reserved"
+	},
+	{
+		"id": "rhino",
+		"name": "Rhino",
+		"version": "2001.2.3-build.10",
+		"description": "A fork of Mozilla's Rhino library, modified for use in mods",
+		"authors": "latvian.dev, Mozilla",
+		"issue_tracker": "https://github.com/KubeJS-Mods/Rhino/issues",
+		"license": "MPL-2.0"
+	},
+	{
+		"id": "kubejs",
+		"name": "KubeJS",
+		"version": "2001.6.5-build.26",
+		"description": "Customize your modpack or server with JavaScript!",
+		"authors": "LatvianModder",
+		"issue_tracker": "https://kubejs.com/support?source=kubejs&mc=2001&loader=forge",
+		"license": "GNU LGPLv3"
+	},
+	{
+		"id": "ftbquests",
+		"name": "FTB Quests",
+		"version": "2001.4.21",
+		"description": "Lets you easily create and play with quests",
+		"authors": "FTB Team",
+		"issue_tracker": "https://github.com/FTBTeam/FTB-Mods-Issues/issues",
+		"license": "All Rights Reserved"
+	},
+	{
+		"id": "ftblibrary",
+		"name": "FTB Library",
+		"version": "2001.2.12",
+		"description": "Foundational library for FTB mods.",
+		"authors": "FTB Team",
+		"issue_tracker": "https://go.ftb.team/support-mod-issues",
+		"license": "All Rights Reserved"
+	},
+	{
+		"id": "jade",
+		"name": "Jade",
+		"version": "11.13.2+forge",
+		"description": "Minecraft mod shows what you are looking at. (Hwyla fork)",
+		"authors": "Snownee",
+		"homepage": "https://minecraft.curseforge.com/projects/jade",
+		"license": "CC BY-NC-SA 4.0"
+	},
+	{
+		"id": "jei",
+		"name": "Just Enough Items",
+		"version": "15.20.0.130",
+		"description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.",
+		"authors": "mezz",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/jei",
+		"issue_tracker": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
+		"license": "The MIT License (MIT)"
+	},
+	{
+		"id": "attributefix",
+		"name": "AttributeFix",
+		"version": "21.0.5",
+		"description": "Extends the maximum attribute ranges to allow for higher values.",
+		"authors": "Darkhax",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+		"issue_tracker": "https://github.com/Darkhax-Minecraft/AttributeFix/issues",
+		"license": "LGPL V2.1"
+	},
+	{
+		"id": "rubidium",
+		"name": "Rubidium (Embeddium)",
+		"version": "0.7.1",
+		"description": "Stub, to allow mods detecting Rubidium to function as expected.",
+		"license": "LGPL-3.0-only"
+	},
+	{
+		"id": "mantle",
+		"name": "Mantle",
+		"version": "1.11.104",
+		"description": "Shared code for Slime Knights mods and others.",
+		"authors": "Slime Knights",
+		"homepage": "https://minecraft.curseforge.com/projects/mantle",
+		"issue_tracker": "https://github.com/SlimeKnights/Mantle/issues",
+		"license": "MIT"
+	},
+	{
+		"id": "gamestages",
+		"name": "GameStages",
+		"version": "15.0.2",
+		"description": "A framework for creating custom progression systems.",
+		"authors": "Darkhax",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/game-stages",
+		"issue_tracker": "https://github.com/Darkhax-Minecraft/Game-Stages",
+		"license": "LGPL v2.1"
+	},
+	{
+		"id": "controlling",
+		"name": "Controlling",
+		"version": "12.0.2",
+		"description": "Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu.",
+		"authors": "Jaredlll08",
+		"homepage": "https://minecraft.curseforge.com/projects/controlling",
+		"issue_tracker": "https://github.com/jaredlll08/Controlling/issues",
+		"license": "MIT"
+	},
+	{
+		"id": "searchables",
+		"name": "Searchables",
+		"version": "1.0.3",
+		"description": "A library mod to facilitate adding search bars with auto complete and search types.",
+		"authors": "Jaredlll08",
+		"homepage": "https://minecraft.curseforge.com/projects/searchables",
+		"issue_tracker": "https://github.com/jaredlll08/searchables/issues",
+		"license": "MIT"
+	},
+	{
+		"id": "placebo",
+		"name": "Placebo",
+		"version": "8.6.3",
+		"description": "1 (one) library boi",
+		"license": "MIT License"
+	},
+	{
+		"id": "modernfix",
+		"name": "ModernFix",
+		"version": "5.27.15+mc1.20.1",
+		"description": "Egregious, yet effective performance improvements for modern Minecraft",
+		"authors": "embeddedt",
+		"homepage": "https://modrinth.com/mod/modernfix",
+		"issue_tracker": "https://github.com/embeddedt/ModernFix/issues",
+		"license": "GNU LGPL 3.0"
+	},
+	{
+		"id": "configured",
+		"name": "Configured",
+		"version": "2.2.3",
+		"description": "Creates a simple GUI config for every mod!",
+		"authors": "MrCrayfish",
+		"homepage": "https://mrcrayfish.com/mods?id=configured",
+		"issue_tracker": "https://github.com/MrCrayfish/Configured/issues",
+		"license": "GNU Lesser General Public License v3.0"
+	},
+	{
+		"id": "mixinextras",
+		"name": "MixinExtras",
+		"version": "0.4.1",
+		"description": "Companion library to Mixin with lots of features to improve the compatibility and concision of your mixins!",
+		"authors": "LlamaLad7",
+		"homepage": "https://github.com/LlamaLad7/MixinExtras",
+		"license": "MIT"
+	},
+	{
+		"id": "bookshelf",
+		"name": "Bookshelf",
+		"version": "20.2.15",
+		"description": "A library for building other mods.",
+		"authors": "Darkhax",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+		"issue_tracker": "https://github.com/Darkhax-Minecraft/Bookshelf/issues",
+		"license": "LGPL V2.1"
+	},
+	{
+		"id": "immediatelyfast",
+		"name": "ImmediatelyFast",
+		"version": "1.5.4+1.20.4",
+		"description": "Speed up and optimize immediate mode rendering in Minecraft",
+		"authors": "RK_01",
+		"issue_tracker": "https://github.com/RaphiMC/ImmediatelyFast/issues",
+		"license": "LGPL-3.0"
+	},
+	{
+		"id": "architectury",
+		"name": "Architectury",
+		"version": "9.2.14",
+		"description": "A intermediary api aimed to ease developing multiplatform mods.",
+		"authors": "shedaniel",
+		"issue_tracker": "https://github.com/shedaniel/architectury/issues",
+		"license": "GNU LGPLv3"
+	},
+	{
+		"id": "ferritecore",
+		"name": "Ferrite Core",
+		"version": "6.0.1",
+		"description": "Reduces memory usage.",
+		"authors": "malte0811",
+		"license": "MIT"
+	},
+	{
+		"id": "aiimprovements",
+		"name": "AI-Improvements",
+		"version": "0.5.2",
+		"description": "Small adjustments and improvements to AI logic focusing on optimizations for increased server performance",
+		"issue_tracker": "https://github.com/BuiltBrokenModding/AI-Improvements/issues",
+		"license": "MIT License https://github.com/BuiltBrokenModding/AI-Improvements/blob/1.20/LICENSE"
+	},
+	{
+		"id": "questsadditions",
+		"name": "Quests Additions",
+		"version": "1.4.7",
+		"description": "An addon for the FTB quests mod. It adds some tasks and rewards that are missing in the base mod.",
+		"authors": "Naturaspell",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/quests-additions",
+		"license": "All rights reserved"
+	},
+	{
+		"id": "toastcontrol",
+		"name": "Toast Control",
+		"version": "8.0.3",
+		"description": "Blocking annoying popups since 1.12",
+		"license": "MIT License"
+	},
+	{
+		"id": "ftbteams",
+		"name": "FTB Teams",
+		"version": "2001.3.2",
+		"description": "FTB Teams adds ability to create your own teams that can be used for quests etc.",
+		"authors": "FTB Team",
+		"issue_tracker": "https://go.ftb.team/support-mod-issues",
+		"license": "All Rights Reserved"
+	},
+	{
+		"id": "forge",
+		"name": "Forge",
+		"version": "47.4.20",
+		"description": "Forge, a broad compatibility API.",
+		"authors": "LexManos,cpw",
+		"homepage": "https://minecraftforge.net/",
+		"issue_tracker": "https://minecraftforge.net/",
+		"license": "LGPL v2.1"
+	},
+	{
+		"id": "packetfixer",
+		"name": "PacketFixer",
+		"version": "3.3.2",
+		"description": "A simple mod to solve various problems with packets.",
+		"authors": "TonimatasDEV",
+		"issue_tracker": "https://github.com/TonimatasDEV/PacketFixer",
+		"license": "MIT"
+	},
+	{
+		"id": "yeetusexperimentus",
+		"name": "Yeetus Experimentus",
+		"version": "2.3.1-build.6+mc1.20.1",
+		"description": "Disables the Experimental Settings popup, which appears when you create or load world.",
+		"authors": "Sunekaer",
+		"license": "All Rights Reserved"
+	},
+	{
+		"id": "embeddium",
+		"name": "Embeddium",
+		"version": "0.3.31+mc1.20.1",
+		"description": "Embeddium is a fork of Rubidium, a fork of Sodium with patches for Forge",
+		"authors": "embeddedt",
+		"license": "LGPL-3.0-only"
+	}
+]

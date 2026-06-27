@@ -1,0 +1,17 @@
+{
+	"minecraft:biome": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:surface_relative_threshold_filter": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:carving_mask": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:heightmap": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:rarity_filter": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:noise_based_count": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:height_range": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:in_square": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:block_predicate_filter": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:environment_scan": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:surface_water_depth_filter": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:random_offset": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:noise_threshold_count": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:count": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0",
+	"minecraft:count_on_every_layer": "net.minecraft.world.level.levelgen.placement.PlacementModifierType$$Lambda$3273/0x0000000800b88da0"
+}

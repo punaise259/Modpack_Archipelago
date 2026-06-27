@@ -1,0 +1,33 @@
+filename = 'JStages-1.20.1-1.0.2.jar'
+name = 'JStages'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'JStages-1.20.1-1.0.2'
+
+[download]
+hash = '40041d317feffe759ccaa7ff4ef762e0385ab8fb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6797963
+project-id = 1300549
+
+[[x-prismlauncher-dependencies]]
+addonId = '972469'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268655'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '280316'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'

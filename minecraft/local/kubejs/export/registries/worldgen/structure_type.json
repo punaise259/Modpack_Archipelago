@@ -1,0 +1,19 @@
+{
+	"minecraft:stronghold": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:ocean_ruin": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:igloo": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:fortress": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:ruined_portal": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:mineshaft": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:end_city": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"tconstruct:island": "slimeknights.tconstruct.world.TinkerStructures$$Lambda$8380/0x000000080138ac30",
+	"minecraft:desert_pyramid": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:buried_treasure": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:woodland_mansion": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:swamp_hut": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:shipwreck": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:jigsaw": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:nether_fossil": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:jungle_temple": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8",
+	"minecraft:ocean_monument": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda$3211/0x0000000800b7dea8"
+}

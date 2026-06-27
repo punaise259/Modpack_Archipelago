@@ -1,0 +1,11 @@
+{
+	"tconstruct:ender_geode": "net.minecraftforge.common.world.ForgeBiomeModifiers$AddFeaturesBiomeModifier",
+	"tconstruct:earth_geode": "net.minecraftforge.common.world.ForgeBiomeModifiers$AddFeaturesBiomeModifier",
+	"tconstruct:sky_geode": "net.minecraftforge.common.world.ForgeBiomeModifiers$AddFeaturesBiomeModifier",
+	"tconstruct:ichor_geode": "net.minecraftforge.common.world.ForgeBiomeModifiers$AddFeaturesBiomeModifier",
+	"tconstruct:spawn_terracube": "net.minecraftforge.common.world.ForgeBiomeModifiers$AddSpawnsBiomeModifier",
+	"tconstruct:spawn_end_slime": "net.minecraftforge.common.world.ForgeBiomeModifiers$AddSpawnsBiomeModifier",
+	"tconstruct:cobalt_ore": "net.minecraftforge.common.world.ForgeBiomeModifiers$AddFeaturesBiomeModifier",
+	"architectury:impl": "dev.architectury.registry.level.biome.forge.BiomeModificationsImpl$BiomeModifierImpl",
+	"tconstruct:spawn_overworld_slime": "net.minecraftforge.common.world.ForgeBiomeModifiers$AddSpawnsBiomeModifier"
+}

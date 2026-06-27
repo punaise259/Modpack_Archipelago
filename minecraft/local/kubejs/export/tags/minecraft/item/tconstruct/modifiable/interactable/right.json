@@ -1,0 +1,19 @@
+[
+	"#tconstruct:modifiable/interactable/dual",
+	"tconstruct:broad_axe",
+	"tconstruct:cleaver",
+	"tconstruct:dagger",
+	"tconstruct:excavator",
+	"tconstruct:flint_and_brick",
+	"tconstruct:hand_axe",
+	"tconstruct:javelin",
+	"tconstruct:kama",
+	"tconstruct:mattock",
+	"tconstruct:minotaur_axe?",
+	"tconstruct:pickadze",
+	"tconstruct:pickaxe",
+	"tconstruct:scythe",
+	"tconstruct:sledge_hammer",
+	"tconstruct:sword",
+	"tconstruct:vein_hammer"
+]

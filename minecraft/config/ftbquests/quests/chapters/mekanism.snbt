@@ -1,0 +1,93 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mekanism"
+	group: "51F38BA4F5730D22"
+	icon: "mekanism:metallurgic_infuser"
+	id: "143368A2CD082380"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0F82F0953A55B19E"
+			tasks: [{
+				id: "2751612B3813F6DC"
+				item: "mekanism:steel_casing"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "75BA0E7A3A7CF921"
+			tasks: [{
+				id: "21CEBE6FBEC28F58"
+				item: "mekanism:metallurgic_infuser"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "6A298D346E5F999D"
+			tasks: [{
+				id: "603692A6620CEE8F"
+				item: "mekanism:enrichment_chamber"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "755227709AF10EBE"
+			tasks: [{
+				id: "21BE11CE75AEA7BB"
+				item: "mekanism:osmium_compressor"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "1A87ACC88B16D069"
+			tasks: [{
+				id: "518C76D03676CFF4"
+				item: "mekanism:digital_miner"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			id: "71E815AD55E89F40"
+			tasks: [{
+				id: "1B738EF582143351"
+				item: "mekanism:quantum_entangloporter"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			id: "42F489D1512F2A8F"
+			tasks: [{
+				id: "67AF23225724C8CB"
+				item: "mekanism:solar_neutron_activator"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			id: "493069598C70C880"
+			tasks: [{
+				id: "67FFBBB956B436EB"
+				item: "mekanism:atomic_disassembler"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+	]
+	title: "Mekanism"
+}

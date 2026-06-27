@@ -1,0 +1,8 @@
+[
+	"#forge:collectables/discardable",
+	"minecraft:experience_orb",
+	"minecraft:item",
+	"minecraft:trident",
+	"tconstruct:indestructible_item",
+	"tconstruct:thrown_tool"
+]

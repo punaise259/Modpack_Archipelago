@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "item": "minecraft:acacia_planks" },
+    "S": { "item": "farmersdelight:straw" }
+  },
+  "pattern": [
+    "P P",
+    "P P",
+    "S S"
+  ],
+  "result": {
+    "item": "exnihilosequentia:acacia_sieve"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,4 @@
+{
+	"tconstruct:extra_root_variants": "net.minecraft.world.level.levelgen.feature.rootplacers.RootPlacerType",
+	"minecraft:mangrove_root_placer": "net.minecraft.world.level.levelgen.feature.rootplacers.RootPlacerType"
+}

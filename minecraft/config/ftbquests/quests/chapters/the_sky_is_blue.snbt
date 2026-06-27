@@ -1,0 +1,89 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_sky_is_blue"
+	group: "1AC1076EBFF2909A"
+	icon: "blue_skies:chiseled_lunar_stonebrick"
+	id: "750BB9E5989099C6"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "58647495CAE47902"
+			tasks: [{
+				id: "2D93973110BA76C7"
+				item: "blue_skies:alchemy_table"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			icon: "blue_skies:everdawn_portal"
+			id: "1F103B828F0CC851"
+			tasks: [
+				{
+					count: 12L
+					id: "0A37D89D5842F915"
+					item: { Count: 12, id: "blue_skies:lunar_stonebrick" }
+					type: "item"
+				}
+				{
+					id: "68B536BC7753F012"
+					item: {
+						Count: 1
+						id: "blue_skies:zeal_lighter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					dimension: "blue_skies:everdawn"
+					id: "67B0DC6FFD53DFBF"
+					type: "dimension"
+				}
+			]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			id: "4A081BB749423D5F"
+			tasks: [{
+				id: "132006DA7167AF9C"
+				item: {
+					Count: 1
+					id: "blue_skies:alchemist_trophy"
+					tag: {
+						BlockStateTag: {
+							tier: "bronze"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			id: "02DFEF1AAA8D3904"
+			tasks: [{
+				id: "169F7F70D26F7947"
+				item: {
+					Count: 1
+					id: "blue_skies:arachnarch_trophy"
+					tag: {
+						BlockStateTag: {
+							tier: "bronze"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+	]
+	title: "The sky is dark"
+}

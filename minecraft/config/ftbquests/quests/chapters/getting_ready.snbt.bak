@@ -1,0 +1,372 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_ready"
+	group: "312A58127E58D89F"
+	id: "6180697E6CDF8CDD"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["You can collect living root from root block at the bottom of the island."]
+			id: "555DEF39F1028495"
+			tasks: [{
+				id: "308A6D952F4884D5"
+				item: "minecraft:oak_sapling"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["555DEF39F1028495"]
+			description: ["If your tree is too slow to grow you can spam the sneak botton to make it grow faster."]
+			id: "2A0138BBD3B9C586"
+			tasks: [{
+				count: 4L
+				id: "371ABAC2E32EF80D"
+				item: { Count: 4, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2A0138BBD3B9C586"]
+			description: ["Craft a crook and use it to collect worms from tree leaves."]
+			id: "417C7845045900A1"
+			tasks: [{
+				id: "1F73C44973D4C327"
+				item: {
+					Count: 1
+					id: "exdeorum:crook"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["417C7845045900A1"]
+			description: ["click on the leaves with your worms and wait until the tree is fully infested then break the leaves with a crook to collect the strings."]
+			id: "3A1484A5D0FCAD69"
+			tasks: [{
+				count: 9L
+				id: "7E1FA6D8BE449672"
+				item: { Count: 9, id: "minecraft:string" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"25DFADED03A75B16"
+				"3A1484A5D0FCAD69"
+			]
+			id: "3BD34F0BB22AAAFF"
+			shape: "gear"
+			size: 1.3d
+			tasks: [
+				{
+					id: "19673126CAA57571"
+					item: "exdeorum:oak_sieve"
+					type: "item"
+				}
+				{
+					id: "089F2B5248ECF7F0"
+					item: "exdeorum:string_mesh"
+					type: "item"
+				}
+			]
+			x: 3.2500000000000004d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2A0138BBD3B9C586"]
+			description: ["get bone meal from composting natural material with the composeter."]
+			id: "588DD174AF5D3AFD"
+			tasks: [
+				{
+					count: 2L
+					id: "59DF98F6BE8BAC51"
+					item: { Count: 2, id: "minecraft:bone_meal" }
+					type: "item"
+				}
+				{
+					id: "2C769E466E9FFDE1"
+					item: "minecraft:composter"
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			description: ["Once the location is unlocked you can collect pebble by sneak + right click on a dirt block."]
+			id: "6A993E8576A95611"
+			tasks: [{
+				count: 32L
+				id: "77FB8F99C7C7736D"
+				item: { Count: 32, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"588DD174AF5D3AFD"
+				"6A993E8576A95611"
+			]
+			description: ["Craft you first knife. You can get gravel by hammering cobbleston. You can get staw by breaking grass with the knife."]
+			id: "25DFADED03A75B16"
+			tasks: [
+				{
+					id: "12298F2E4A5397DE"
+					item: {
+						Count: 1
+						id: "farmersdelight:flint_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "1597CE5B516DFE81"
+					item: { Count: 2, id: "farmersdelight:straw" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6A993E8576A95611"]
+			id: "3B5A6367127523F2"
+			tasks: [{
+				id: "62AA16C65E6CFD47"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3B5A6367127523F2"]
+			id: "05133183B209EF59"
+			tasks: [{
+				id: "0AF1AA17C60FB3DB"
+				item: "minecraft:campfire"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["05133183B209EF59"]
+			id: "4D708A525CAD2D6C"
+			shape: "gear"
+			size: 1.3d
+			tasks: [{
+				id: "7CDD05CE2B7C207F"
+				item: "farmersdelight:cooking_pot"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"4D708A525CAD2D6C"
+				"3BD34F0BB22AAAFF"
+			]
+			id: "0B4505EE100E2825"
+			tasks: [{
+				id: "1D2EFE204B615FBB"
+				item: "kubejs:acidic_extract"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"0B4505EE100E2825"
+				"4D708A525CAD2D6C"
+				"6F6A0699EE90DEB8"
+			]
+			dependency_requirement: "one_completed"
+			id: "110DA2285C815E6E"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [
+				{
+					count: 4L
+					id: "3C34068638C234F9"
+					item: { Count: 4, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "797DCA32DAB49C70"
+					item: { Count: 4, id: "minecraft:copper_ingot" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "21AE347E4895C70A"
+					item: { Count: 4, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "33ECC83A521EAD92"
+					item: { Count: 4, id: "thermal:tin_ingot" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "100559F4675943FD"
+					item: { Count: 4, id: "thermal:lead_ingot" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7D7F7DA90C0C5F54"
+					item: { Count: 4, id: "thermal:silver_ingot" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "18410B90A173DB6D"
+					item: { Count: 4, id: "thermal:nickel_ingot" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "466B3E15D1EA3C98"
+					item: { Count: 4, id: "mekanism:ingot_osmium" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["42154994B7D27413"]
+			id: "1240EEE140570FA9"
+			tasks: [{
+				id: "3454CEB9FF2EA48C"
+				item: "ironfurnaces:iron_furnace"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["17A7B82343F93E47"]
+			id: "2BE4EFFE0D9E1310"
+			tasks: [{
+				id: "33A4AF385A931E91"
+				item: "ironfurnaces:gold_furnace"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2BE4EFFE0D9E1310"]
+			id: "7F74F2648E3CEB09"
+			tasks: [{
+				id: "07C8F6894E21D672"
+				item: "ironfurnaces:diamond_furnace"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7F74F2648E3CEB09"]
+			id: "1F71893E8BBD204F"
+			tasks: [{
+				id: "4082B8AF1D476229"
+				item: "ironfurnaces:emerald_furnace"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7F74F2648E3CEB09"]
+			id: "7B232529949E45BF"
+			tasks: [{
+				id: "72A78F1214A5161C"
+				item: "ironfurnaces:obsidian_furnace"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["110DA2285C815E6E"]
+			id: "42154994B7D27413"
+			tasks: [{
+				id: "682522E7394F5ECC"
+				item: "ironfurnaces:copper_furnace"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1240EEE140570FA9"]
+			id: "17A7B82343F93E47"
+			tasks: [{
+				id: "0E263F6C183545AE"
+				item: "ironfurnaces:silver_furnace"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7B232529949E45BF"]
+			id: "7D68C53FFDE39187"
+			tasks: [{
+				id: "02B9CFD9A556AD12"
+				item: "ironfurnaces:netherite_furnace"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3BD34F0BB22AAAFF"]
+			id: "6F6A0699EE90DEB8"
+			tasks: [{
+				id: "0FF054E918449F72"
+				item: "exdeorum:flint_mesh"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "6617A621E4970DEB"
+			tasks: [{
+				id: "296833C657B4E620"
+				item: "exdeorum:porcelain_crucible"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -1.5d
+		}
+	]
+	title: "getting ready"
+}

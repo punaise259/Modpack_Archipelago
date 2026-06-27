@@ -1,0 +1,16 @@
+[
+	"#tconstruct:modifiable/melee/parry",
+	"#tconstruct:modifiable/melee/primary",
+	"#tconstruct:modifiable/melee/sword",
+	"tconstruct:crossbow",
+	"tconstruct:excavator",
+	"tconstruct:fishing_rod",
+	"tconstruct:flint_and_brick",
+	"tconstruct:kama",
+	"tconstruct:longbow",
+	"tconstruct:mattock",
+	"tconstruct:pickadze",
+	"tconstruct:pickaxe",
+	"tconstruct:vein_hammer",
+	"tconstruct:war_pick"
+]

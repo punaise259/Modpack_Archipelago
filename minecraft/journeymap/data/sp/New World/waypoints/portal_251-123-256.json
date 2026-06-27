@@ -1,0 +1,22 @@
+{
+  "id": "portal_251-123-256",
+  "name": "portal",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12870767-waypoint-icon.png",
+  "x": 251,
+  "y": 123,
+  "z": 256,
+  "r": 59,
+  "g": 155,
+  "b": 145,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "blue_skies:everdawn"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

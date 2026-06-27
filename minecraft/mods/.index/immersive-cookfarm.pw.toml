@@ -1,0 +1,37 @@
+filename = 'immersivecooking-1.20.1-0.1.3-SNAPSHOT-7.jar'
+name = 'Immersive Cooking & Farming'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[FORGE 1.20.1] 0.1.3-SNAPSHOT'
+
+[download]
+hash = '28ac511c03193ab5842dc757a6a1ea8110a47a4a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8093243
+project-id = 1460406
+
+[[x-prismlauncher-dependencies]]
+addonId = '1038103'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '704465'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '231951'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '637808'
+type = 'OPTIONAL'

@@ -1,0 +1,79 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_sky_is_bright"
+	group: "1AC1076EBFF2909A"
+	icon: "blue_skies:turquoise_stonebrick"
+	id: "309745522FBE619F"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "blue_skies:everbright_portal"
+			id: "704D3321B40198E7"
+			tasks: [
+				{
+					dimension: "blue_skies:everbright"
+					id: "58768E2C4815FF1E"
+					type: "dimension"
+				}
+				{
+					count: 12L
+					id: "4E653DDABFAD9160"
+					item: { Count: 12, id: "blue_skies:turquoise_stonebrick" }
+					type: "item"
+				}
+				{
+					id: "5313CA1D1835BBD8"
+					item: {
+						Count: 1
+						id: "blue_skies:zeal_lighter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "092060587DCFEE8A"
+			tasks: [{
+				id: "0765DF52D7FC5E0E"
+				item: {
+					Count: 1
+					id: "blue_skies:summoner_trophy"
+					tag: {
+						BlockStateTag: {
+							tier: "bronze"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "5110A3DFD5316917"
+			tasks: [{
+				id: "2E239753EBA982B3"
+				item: {
+					Count: 1
+					id: "blue_skies:starlit_crusher_trophy"
+					tag: {
+						BlockStateTag: {
+							tier: "bronze"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+	]
+	title: "The sky is bright"
+}

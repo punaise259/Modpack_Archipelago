@@ -1,0 +1,4 @@
+{
+	"tconstruct:material_variant": "net.minecraft.network.syncher.EntityDataSerializer$1",
+	"tconstruct:fluid": "slimeknights.tconstruct.tools.network.FluidDataSerializer"
+}

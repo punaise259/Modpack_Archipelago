@@ -1,0 +1,155 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "botania"
+	group: "1F8FF8A2D00EE09C"
+	icon: "botania:fertilizer"
+	id: "36DA8B4C40D5DAAC"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "73DAB67538D08B56"
+			tasks: [{
+				count: 4L
+				id: "3EA8CA5715E13871"
+				item: { Count: 4, id: "botania:fertilizer" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "1437EBAC1D95654D"
+			tasks: [{
+				id: "2D91674E5739DC84"
+				item: "botania:apothecary_default"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "7419BBCD7E5F314F"
+			tasks: [{
+				id: "024177E69602F6C0"
+				item: "botania:hydroangeas"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			id: "5A44D1567B996DAC"
+			tasks: [{
+				id: "4F72C442EE7D5A34"
+				item: "botania:endoflame"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			id: "17C03276C6B97C22"
+			tasks: [{
+				id: "094A934440B033DE"
+				item: "botania:pure_daisy"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "4D961E1F8E47C260"
+			tasks: [{
+				id: "6836C82B66F19FC5"
+				item: "botania:mana_spreader"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			id: "5A9D511F17B0C3FB"
+			tasks: [{
+				id: "26382DEB30B32A96"
+				item: "botania:mana_pool"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			id: "47CFC3A54B3F3181"
+			size: 2.0d
+			tasks: [{
+				id: "1A7474C3CE87CAEF"
+				item: "botania:terra_plate"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			id: "59160DE0ACBAFE53"
+			tasks: [{
+				id: "62003FC252965574"
+				item: "botania:runic_altar"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			id: "290DD1AA8566A973"
+			tasks: [{
+				id: "5A239E1247AC0D48"
+				item: "botania:rune_water"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			id: "4CBE681D9DD165C3"
+			tasks: [{
+				id: "1D317D54549FD0AD"
+				item: "botania:rune_fire"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			id: "76E99D0089C8F4E2"
+			tasks: [{
+				id: "5B433AE4CC5D13BE"
+				item: "botania:rune_earth"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			id: "51064DF38E19B0C3"
+			tasks: [{
+				id: "7C5BC9F754C18F29"
+				item: "botania:rune_air"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.5d
+		}
+		{
+			id: "3F05D5B390D477E9"
+			tasks: [{
+				id: "7DCB60CF35FFBCB8"
+				item: "botania:rune_mana"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.0d
+		}
+	]
+	title: "Botania"
+}

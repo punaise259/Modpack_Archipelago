@@ -1,0 +1,9 @@
+{
+	chapter_groups: [
+		{ id: "312A58127E58D89F", title: "The beginning" }
+		{ id: "1F8FF8A2D00EE09C", title: "Farming" }
+		{ id: "51F38BA4F5730D22", title: "Tech" }
+		{ id: "1AC1076EBFF2909A", title: "Adventure" }
+		{ id: "5D6D511F948C2B08", title: "To the Moon" }
+	]
+}

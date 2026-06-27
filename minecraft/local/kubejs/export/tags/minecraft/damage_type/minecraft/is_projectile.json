@@ -1,0 +1,19 @@
+[
+	"minecraft:arrow",
+	"minecraft:fireball",
+	"minecraft:mob_projectile",
+	"minecraft:thrown",
+	"minecraft:trident",
+	"minecraft:unattributed_fireball",
+	"minecraft:wither_skull",
+	"tconstruct:explosion_ranged",
+	"tconstruct:fishing_hook",
+	"tconstruct:fluid_cold_ranged",
+	"tconstruct:fluid_fire_ranged",
+	"tconstruct:fluid_impact_ranged",
+	"tconstruct:fluid_magic_ranged",
+	"tconstruct:fluid_spike_ranged",
+	"tconstruct:mob_explosion_ranged",
+	"tconstruct:thrown_tool",
+	"tconstruct:water_ranged"
+]
